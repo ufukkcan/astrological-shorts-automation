@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-31",
   "message_id": 15,
   "created_at": "2026-08-31T13:08:17.606508+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Saturn Retrograde Conjunct Moon in Aries",
@@ -135,5 +135,46 @@
         "butterfly garden"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Saturn Retrograde Conjunct Moon in Aries",
+    "teaser": "Saturn and the Moon are sitting at almost the exact same degree in Aries right now — and most people have no idea what that tension is building toward.",
+    "video_title": "Saturn Is Right Next to the Moon in Aries Today",
+    "video_description": "Saturn retrograde and the Moon are conjunct in Aries at nearly the same degree right now. This rare pressure point hits fire and cardinal signs hardest. Here's what it means for you.",
+    "tags": [
+      "saturnretrograde",
+      "ariesseason",
+      "mooninaries",
+      "saturnconjunct",
+      "cardinalenergy",
+      "waninggibbousmoon",
+      "firesigns",
+      "shorts",
+      "viral",
+      "astrology"
+    ],
+    "script": "Saturn and the Moon are sitting at almost the same degree in Aries right now — and that is not a gentle combination. In astrology, Saturn is the planet of restriction, karma, and hard lessons. The Moon rules your emotions and instincts. When these two collide in warrior Aries, astrologers say the push to act fast crashes directly into a wall that forces you to slow down and reckon with something old. With Saturn retrograde, that wall is internal — something unresolved is asking to be faced. Aries, Libra, Cancer, Capricorn — you feel this the most. What are you refusing to deal with?",
+    "visual_keywords": [
+      "saturn planet space",
+      "full moon night sky",
+      "stars galaxy",
+      "night clouds dramatic",
+      "planets close together"
+    ]
+  },
+  "hashtag_options": [
+    "saturnretrograde",
+    "ariesseason",
+    "mooninaries",
+    "saturnconjunct",
+    "cardinalenergy",
+    "waninggibbousmoon",
+    "firesigns",
+    "shorts",
+    "viral",
+    "astrology"
+  ],
+  "hashtag_message_id": 16,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-31T13:09:35.428134+00:00"
 }
