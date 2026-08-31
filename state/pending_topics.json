@@ -1,9 +1,9 @@
 {
   "batch_id": "20260831-1308",
   "trigger_date": "2026-08-31",
-  "message_id": 15,
+  "message_id": 18,
   "created_at": "2026-08-31T13:08:17.606508+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Saturn Retrograde Conjunct Moon in Aries",
@@ -140,7 +140,7 @@
     "topic": "Saturn Retrograde Conjunct Moon in Aries",
     "teaser": "Saturn and the Moon are sitting at almost the exact same degree in Aries right now — and most people have no idea what that tension is building toward.",
     "video_title": "Saturn Is Right Next to the Moon in Aries Today",
-    "video_description": "Saturn retrograde and the Moon are conjunct in Aries at nearly the same degree right now. This rare pressure point hits fire and cardinal signs hardest. Here's what it means for you.",
+    "video_description": "Saturn Retrograde Conjunct Moon in Aries\n\n#saturnretrograde #mooninaries #saturnconjunct #shorts #viral",
     "tags": [
       "saturnretrograde",
       "ariesseason",
@@ -175,6 +175,15 @@
     "astrology"
   ],
   "hashtag_message_id": 16,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-08-31T13:09:35.428134+00:00"
+  "selected_hashtags": [
+    0,
+    2,
+    3,
+    7,
+    8
+  ],
+  "hashtag_started_at": "2026-08-31T13:09:35.428134+00:00",
+  "video_file_id": "BAACAgQAAxkDAAMSapV9sJJfHwIuLQyCPzwsdjMkAfgAAnUgAAI7ybBQiv2PcOhQsZU9BA",
+  "review_started_at": "2026-08-31T13:12:16.578458+00:00",
+  "attempts": 1
 }
