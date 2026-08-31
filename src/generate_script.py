@@ -1,7 +1,7 @@
 """
-Gunluk 'ilginc bilgi' icin BIRDEN FAZLA aday konu ve script uretir.
+"astrologicalshorts" kanali icin gunluk astroloji konusu ve script uretir.
 Kullanici Telegram'dan birini secer, secilen tam icerik uretime gonderilir.
-Daha once kullanilan/gosterilen konulari state/topics_used.json icinde tutar, tekrari onler.
+Daha once kullanilan/gosterilen konulari state/topics_used.json icinde tutar.
 """
 import json
 import os
@@ -12,65 +12,74 @@ from anthropic import Anthropic
 STATE_FILE = Path(__file__).resolve().parent.parent / "state" / "topics_used.json"
 LANGUAGE = os.environ.get("CONTENT_LANGUAGE", "en")  # "en" veya "tr"
 
-SYSTEM_PROMPT = """Sen dunyanin en cok izlenen YouTube Shorts kanalinin bas
+SYSTEM_PROMPT = """Sen "astrologicalshorts" adli YouTube Shorts kanalinin bas
 yazarisin -- videolarin milyonlarca kez izleniyor ve Kesfet'e dusuyor.
-Kanalin konusu: insanlarin bilmedigi, merak uyandiran, sasirtici gercekler.
+Kanalin konusu: ASTROLOJI -- burclar, gezegen hareketleri, dogum haritasi,
+astrolojik semboller, burclar arasi uyum, retro donemler, ay evreleri,
+astrolojinin tarihi ve kulturel hikayeleri.
 
-ASAGIDAKI KURALLAR, GERCEK VIRAL SHORTS ICERIK URETICILERININ KULLANDIGI,
-KANITLANMIS TEKNIKLERDIR. HER BIRINE HARFIYEN UY:
+ONEMLI DURUSTLUK/CERCEVE KURALI:
+Astroloji bilimsel olarak kanitlanmis bir sistem degildir. Bu yuzden
+iddialari ASLA "bilimsel gercek" gibi sunma. Bunun yerine dogal, akici bir
+sekilde astrolojinin KENDI cercevesi icinde anlat: "astrolojide ... denir",
+"bu burcun arketipi ...", "geleneksel yorumlara gore ...", "astrologlar bunu
+... olarak yorumlar" gibi. Bu hem dogru hem de izleyiciye daha ilgi cekici
+gelir. Kesin kader/saglik/para tavsiyesi VERME (orn. "bu ay is degistir",
+"bu ilaci kullan" gibi seyler yasak).
 
-1) ILK 3 SANIYE HER SEYDIR (algoritma kaydirma/izlenme oranina bakiyor):
-   - ILK CUMLE tek basina, sesi kapali kaydiran birini bile durdurmali.
-   - YASAK acilislar: "Did you know...", "Bugun size...", "Merhaba", genel
-     sorularla baslama. Bunlarin YERINE su tekniklerden birini kullan:
-     a) SOK EDICI TEK CUMLE ile ac ("Bu adam 200 yil once olmustu ama hala nefes aliyor.")
-     b) YAYGIN INANCI YIKAN cumle ("Sandigimizin aksine, X hicbir zaman Y yapmadi.")
-     c) OLAYIN TAM ORTASINDAN baslama (sahneyi, sonucu degil, tam aksiyon anini anlat)
-   - Kancada CEVABIN TAMAMINI VERME -- merak acigi (curiosity gap) birak,
-     izleyici "peki nasil/neden" diye izlemeye devam etsin.
+ASAGIDAKI KURALLAR VIRAL SHORTS TEKNIKLERIDIR, HER BIRINE HARFIYEN UY:
 
-2) TEMPO: Script 22-32 saniyede seslendirilecek uzunlukta olmali (yaklasik
-   65-85 kelime). Daha KISA ve YOGUN, izleyici sikilmadan bitsin, tamamlama
-   orani (completion rate) yuksek olsun -- bu, algoritmanin en onemli sinyali.
+1) ILK 3 SANIYE HER SEYDIR:
+   - ILK CUMLE tek basina, kaydiran birini durdurmali.
+   - YASAK acilislar: "Biliyor muydunuz...", "Bugun size...", "Merhaba".
+     Bunlarin YERINE:
+     a) DOGRUDAN OKUYUCUYU HEDEF ALAN carpici cumle
+        ("If you were born in these three signs, astrologers say you carry the
+         hardest placement in the entire zodiac.")
+     b) YAYGIN INANCI YIKAN cumle
+        ("Your star sign is probably wrong -- and here's why.")
+     c) BEKLENMEDIK/ESRARENGIZ bir detayla ortadan baslama
+        ("There's a planet that only turns backwards when your life falls apart.")
+   - Kancada CEVABIN TAMAMINI VERME -- merak acigi birak.
+
+2) TEMPO: 22-32 saniyede seslendirilecek uzunluk (65-85 kelime).
 
 3) YAPI (kanca -> gerilim -> carpici detay -> twist/soru):
-   - Kancadan sonra bilgiyi TEK SEFERDE dokme, kucuk bir gerilim/bekleme yarat.
-   - Orta kisim somut, dogrulanabilir, SAYISAL/SPESIFIK detaylar icermeli
-     (rakam, tarih, isim -- "cok eskiden" degil "3000 yil once" gibi).
-   - KAPANIS mutlaka ya (a) izleyicinin YORUM YAPMASINI tetikleyen bolucu/
-     tartismali bir soru, ya da (b) baslangictaki kancaya geri donen bir
-     "twist" olmali (bu, tekrar izlemeyi/loop etkisini artirir).
+   - Orta kisim SOMUT olmali: gezegen adi, burc adi, derece, tarih, mitolojik
+     kaynak gibi spesifik detaylar ("Merkur yilda 3 kez retroya girer" gibi).
+   - KAPANIS ya izleyicinin YORUM YAPMASINI tetikleyen bir soru
+     ("Which sign are you? Comment below.") ya da kancaya donen bir twist olmali.
 
-4) Konusma dili sade, hizli, tarih/belgesel anlaticisi tonunda. Baslik/madde
-   isareti YOK, duz akan tek paragraf metin. Gereksiz giris/bagli cumleler yok.
+4) Konusma dili sade, hizli, gizemli-ama-samimi bir anlatici tonunda.
+   Baslik/madde isareti YOK, duz akan tek paragraf.
 
-5) Adaylarin konulari birbirinden FARKLI kategorilerden olmali (bilim, tarih,
-   hayvanlar, uzay, insan vucudu, teknoloji, gunluk hayat vb. karistir).
+5) Adaylarin konulari BIRBIRINDEN FARKLI astroloji alt-basliklarindan olmali:
+   (burc karakter analizleri, gezegen retrolari, ay evreleri, yukselen/ay burcu,
+    burc uyumlari, evler, astrolojinin tarihi, mitolojik kokenler, semboller,
+    az bilinen astrolojik kavramlar -- her seferinde farkli alanlari karistir).
 
 6) Cikti SADECE gecerli JSON olmali, baska hicbir sey yazma.
 
-DIL KURALI (EN ONEMLI KURAL, HER SEYDEN ONCELIKLI):
-Bu talimatlarin kendisi Turkce yazilmis olsa da, bu SADECE senin (yapay zekanin)
-talimati anlamasi icin boyle -- URETECEGIN ICERIGIN dili tamamen ayri bir konu ve
-SADECE kullanicinin mesajindaki "Dil:" alaninda belirttigi dile gore belirlenir.
-Talimatlarin dili ile cikti dili birbirine KARISTIRILMAMALI."""
+DIL KURALI (EN ONEMLI KURAL):
+Bu talimatlarin kendisi Turkce yazilmis olsa da, bu SADECE senin talimati
+anlaman icin -- URETECEGIN ICERIGIN dili SADECE kullanicinin mesajindaki
+"CIKTI DILI" alanina gore belirlenir. Ikisini KARISTIRMA."""
 
 CANDIDATE_SCHEMA = """{
   "topic": "kisa konu basligi (dahili takip icin)",
-  "teaser": "Telegram'da gosterilecek, 1 cumlelik merak uyandirici on izleme (spoiler vermeden, cevabi verme)",
+  "teaser": "Telegram'da gosterilecek, 1 cumlelik merak uyandirici on izleme (cevabi verme)",
   "video_title": "YouTube icin tiklanabilir, merak uyandiran baslik (60 karakter alti)",
   "video_description": "2-3 cumlelik aciklama (kullanilmayabilir, yedek)",
-  "tags": ["TAM OLARAK 10 hashtag adayi, CIKTI DILINDE (asagidaki 'Dil' kuralina uy). Ilk 6-7'si konuyla DOGRUDAN ilgili spesifik hashtag'ler (orn. konu 'Cleopatra' ise 'cleopatra', 'ancientegypt', 'history' gibi), son 3-4'u ise YouTube Shorts'ta kesfete dusmeye yardimci EVRENSEL/JENERIK hashtag'ler olmali: shorts, viral, trending, facts, didyouknow gibi. Her hashtag bosluksuz tek kelime/bitisik olmali."],
-  "script": "seslendirilecek tam metin, 65-85 kelime, tek paragraf -- ilk cumle SOK EDICI kanca olmali",
-  "visual_keywords": ["pexels aramasi icin 3-5 İNGİLİZCE anahtar kelime (cikti dili ne olursa olsun bu alan HER ZAMAN Ingilizce kalir, cunku Pexels'te arama Ingilizce daha iyi sonuc veriyor), konuyla gorsel eslesecek somut nesneler/mekanlar"]
+  "tags": ["TAM OLARAK 10 hashtag adayi, CIKTI DILINDE. Ilk 6-7'si konuyla DOGRUDAN ilgili spesifik astroloji hashtag'leri (orn. 'scorpio', 'mercuryretrograde', 'birthchart', 'zodiac'), son 3-4'u kesfete yardimci jenerik hashtag'ler (shorts, viral, astrology, zodiacsigns). Her biri bosluksuz tek kelime."],
+  "script": "seslendirilecek tam metin, 65-85 kelime, tek paragraf -- ilk cumle SOK EDICI kanca",
+  "visual_keywords": ["pexels aramasi icin 3-5 INGILIZCE anahtar kelime (cikti dili ne olursa olsun HER ZAMAN Ingilizce). Astroloji icin gorsel bulmak zor oldugundan SOMUT ve ARAMASI KOLAY terimler kullan: 'night sky stars', 'galaxy space', 'full moon', 'tarot cards', 'crystal ball', 'ancient temple', 'constellation' gibi -- 'scorpio energy' gibi soyut aramalar YAPMA, Pexels'te sonuc donmez."]
 }"""
 
 USER_PROMPT_TEMPLATE = """CIKTI DILI: {language}
 (topic, teaser, video_title, video_description, script VE tags alanlarinin
 TAMAMI {language} dilinde olacak -- SADECE visual_keywords her zaman
-Ingilizce kalir, cunku Pexels'te arama Ingilizce daha iyi sonuc veriyor.
-tags icindeki shorts/viral gibi evrensel hashtag'ler istisna,
-degistirilmeden kalabilir.)
+Ingilizce kalir. tags icindeki shorts/viral gibi evrensel hashtag'ler
+istisna, degistirilmeden kalabilir.)
 
 Daha once kullanilmis/gosterilmis konular (bunlari TEKRAR ETME): {used_topics}
 
@@ -120,8 +129,7 @@ def _call_claude(n: int) -> list[dict]:
 
 
 def generate_topic_candidates(n: int = 5) -> list[dict]:
-    """n adet farkli aday konu+script uretir. Hepsi 'gosterilmis' olarak
-    isaretlenir (secilmese bile), boylece yarin tekrar onerilmezler."""
+    """n adet farkli aday konu+script uretir."""
     candidates = _call_claude(n)
     save_used_topics([c["topic"] for c in candidates])
     return candidates
