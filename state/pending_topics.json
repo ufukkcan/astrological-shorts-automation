@@ -3,7 +3,7 @@
   "trigger_date": "2026-08-31",
   "message_id": 8,
   "created_at": "2026-08-31T12:41:26.164782+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Saturn Return Life Crisis",
@@ -135,5 +135,46 @@
         "galaxy space"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Mercury Retrograde True Origin",
+    "teaser": "Mercury retrograde gets blamed for everything — but almost nobody knows what's actually happening in the sky when it occurs.",
+    "video_title": "Mercury Retrograde Isn't What You Think It Is",
+    "video_description": "Mercury doesn't actually move backward — it's a visual illusion created by orbital speeds. But in astrology, this apparent reversal has been interpreted for centuries as a period of miscommunication and reflection. The real story is stranger than the meme.",
+    "tags": [
+      "mercuryretrograde",
+      "mercury",
+      "retrograde",
+      "astrology",
+      "zodiac",
+      "planets",
+      "horoscope",
+      "shorts",
+      "viral",
+      "astrologytok"
+    ],
+    "script": "Mercury isn't actually moving backward — that's the part nobody tells you. It's an optical illusion caused by Earth overtaking Mercury in their orbits around the Sun, roughly three times a year. But here's where astrology gets interesting: ancient astrologers, centuries before modern astronomy, tracked this apparent reversal and consistently linked it to disrupted communication, delayed decisions, and revisited pasts. Whether coincidence or pattern, the archetype has held for thousands of years. Are you currently in a Mercury retrograde spiral? Tell me in the comments.",
+    "visual_keywords": [
+      "planets solar system",
+      "night sky stars",
+      "galaxy space",
+      "telescope observatory",
+      "constellation map"
+    ]
+  },
+  "hashtag_options": [
+    "mercuryretrograde",
+    "mercury",
+    "retrograde",
+    "astrology",
+    "zodiac",
+    "planets",
+    "horoscope",
+    "shorts",
+    "viral",
+    "astrologytok"
+  ],
+  "hashtag_message_id": 9,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-08-31T12:42:49.284878+00:00"
 }
