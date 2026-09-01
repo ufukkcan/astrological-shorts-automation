@@ -3,7 +3,7 @@
   "trigger_date": "2026-09-01",
   "message_id": 20,
   "created_at": "2026-09-01T16:35:14.584173+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Mars in Cancer — Emotional Drive vs. Practical Action",
@@ -135,5 +135,46 @@
         "crown gold luxury"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Jupiter in Leo — Luck, Ego, and the Danger of Too Much Shine",
+    "teaser": "Jupiter in Leo is the luckiest placement of the year — but astrologers say it comes with a catch most people ignore.",
+    "video_title": "Jupiter in Leo: The Luckiest Trap in Astrology",
+    "video_description": "Jupiter expands everything it touches — and right now it's in Leo, the sign of ego, performance, and desire for recognition. The luck is real, but so is the inflation. Know the difference before it costs you.",
+    "tags": [
+      "jupiterinleo",
+      "jupiterastrology",
+      "leoenergy",
+      "jupiterluck",
+      "astrologytok",
+      "planetaryenergy",
+      "natalchart",
+      "zodiac",
+      "shorts",
+      "astrology"
+    ],
+    "script": "Jupiter in Leo sounds like a dream — and right now at 13° Leo, astrologers say the expansion is very real. Recognition, creativity, and bold opportunity are all on the table. But Jupiter doesn't just bring blessings — it amplifies everything, including the ego. Traditional astrology warns that Jupiter in Leo can tip from confidence into overreach faster than you notice. So yes, this is your moment to shine. Just make sure you still know who you are when the spotlight moves.",
+    "visual_keywords": [
+      "golden sun rays",
+      "lion majestic wildlife",
+      "stage spotlight theater",
+      "planets space",
+      "crown gold luxury"
+    ]
+  },
+  "hashtag_options": [
+    "jupiterinleo",
+    "jupiterastrology",
+    "leoenergy",
+    "jupiterluck",
+    "astrologytok",
+    "planetaryenergy",
+    "natalchart",
+    "zodiac",
+    "shorts",
+    "astrology"
+  ],
+  "hashtag_message_id": 21,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-09-01T16:36:43.827007+00:00"
 }
