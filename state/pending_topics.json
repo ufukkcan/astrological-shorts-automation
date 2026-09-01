@@ -1,9 +1,9 @@
 {
   "batch_id": "20260901-1635",
   "trigger_date": "2026-09-01",
-  "message_id": 20,
+  "message_id": 23,
   "created_at": "2026-09-01T16:35:14.584173+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Mars in Cancer — Emotional Drive vs. Practical Action",
@@ -140,7 +140,7 @@
     "topic": "Jupiter in Leo — Luck, Ego, and the Danger of Too Much Shine",
     "teaser": "Jupiter in Leo is the luckiest placement of the year — but astrologers say it comes with a catch most people ignore.",
     "video_title": "Jupiter in Leo: The Luckiest Trap in Astrology",
-    "video_description": "Jupiter expands everything it touches — and right now it's in Leo, the sign of ego, performance, and desire for recognition. The luck is real, but so is the inflation. Know the difference before it costs you.",
+    "video_description": "Jupiter in Leo — Luck, Ego, and the Danger of Too Much Shine\n\n#leoenergy #natalchart #zodiac #shorts #astrology",
     "tags": [
       "jupiterinleo",
       "jupiterastrology",
@@ -175,6 +175,15 @@
     "astrology"
   ],
   "hashtag_message_id": 21,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-09-01T16:36:43.827007+00:00"
+  "selected_hashtags": [
+    2,
+    6,
+    7,
+    8,
+    9
+  ],
+  "hashtag_started_at": "2026-09-01T16:36:43.827007+00:00",
+  "video_file_id": "BAACAgQAAxkDAAMXapb_5FL6J3TMfHvRzQxRONzVqDAAAkIwAAICwLlQMM8ImlUf13c9BA",
+  "review_started_at": "2026-09-01T16:40:04.374898+00:00",
+  "attempts": 1
 }
