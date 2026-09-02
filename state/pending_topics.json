@@ -3,7 +3,7 @@
   "trigger_date": "2026-09-02",
   "message_id": 25,
   "created_at": "2026-09-02T15:10:48.010785+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Last Quarter Moon in Taurus — Letting Go of Comfort",
@@ -135,5 +135,46 @@
         "hourglass time"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Mercury in Virgo — The Sign It Rules and Why It's Different Here",
+    "teaser": "Mercury is in Virgo right now — the one sign where it operates at a completely different level.",
+    "video_title": "Mercury in Virgo — Why This Placement Hits Different",
+    "video_description": "Mercury rules Virgo, which means right now it's operating in its home territory — sharper, faster, and more analytical than almost anywhere else in the zodiac. But astrologers warn that this clarity has a shadow side.",
+    "tags": [
+      "mercuryinvirgo",
+      "virgoseason",
+      "mercuryastrology",
+      "virgoenergy",
+      "birthchart",
+      "mercuryplacement",
+      "astrology2026",
+      "zodiac",
+      "shorts",
+      "viral"
+    ],
+    "script": "Mercury is in Virgo right now — at 15 degrees — and this placement is different from every other sign, because Virgo is one of the signs Mercury actually rules. In astrology, a planet in its home sign operates without interference. The mind gets sharper. Pattern recognition goes up. Communication becomes precise, almost surgical. But here's what astrologers rarely mention: Mercury in Virgo can turn that precision on yourself — and become the loudest inner critic you've ever had. Is your mind solving problems right now, or just finding new ones?",
+    "visual_keywords": [
+      "woman writing notebook",
+      "library books study",
+      "magnifying glass detail",
+      "night sky stars",
+      "hourglass time"
+    ]
+  },
+  "hashtag_options": [
+    "mercuryinvirgo",
+    "virgoseason",
+    "mercuryastrology",
+    "virgoenergy",
+    "birthchart",
+    "mercuryplacement",
+    "astrology2026",
+    "zodiac",
+    "shorts",
+    "viral"
+  ],
+  "hashtag_message_id": 26,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-09-02T18:04:37.916958+00:00"
 }
