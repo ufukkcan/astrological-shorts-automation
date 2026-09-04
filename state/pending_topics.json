@@ -3,7 +3,7 @@
   "trigger_date": "2026-09-03",
   "message_id": 30,
   "created_at": "2026-09-03T14:31:45.209323+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Last Quarter Moon in Gemini — Mental Crossroads",
@@ -135,5 +135,46 @@
         "clock time minimal"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Last Quarter Moon in Gemini — Mental Crossroads",
+    "teaser": "The Moon is in Gemini right now — and it's forcing a decision you've been avoiding for weeks.",
+    "video_title": "Last Quarter Moon in Gemini Is Exposing Your Indecision",
+    "video_description": "The Last Quarter Moon in Gemini at 1.6° is a mental crossroads moment. With the Sun in Virgo analyzing every detail, this lunation asks you to cut through the noise and commit. Which story are you finally letting go of?",
+    "tags": [
+      "lastquartermoon",
+      "mooningemini",
+      "geminiseason",
+      "virgoseason",
+      "lunarphases",
+      "moonastrology",
+      "geminimoon",
+      "shorts",
+      "viral",
+      "astrology"
+    ],
+    "script": "You're being pulled in two directions right now — and the sky is the reason. The Last Quarter Moon is sitting in Gemini at just 1.6°, locking into a tense angle with the Virgo Sun. Gemini wants every option open. Virgo demands a decision. This moon phase is not about gathering more information — it's about releasing the version of yourself that refuses to choose. Which story are you finally willing to let go of?",
+    "visual_keywords": [
+      "full moon night sky",
+      "galaxy stars",
+      "twin silhouette",
+      "night clouds moon",
+      "stars time lapse"
+    ]
+  },
+  "hashtag_options": [
+    "lastquartermoon",
+    "mooningemini",
+    "geminiseason",
+    "virgoseason",
+    "lunarphases",
+    "moonastrology",
+    "geminimoon",
+    "shorts",
+    "viral",
+    "astrology"
+  ],
+  "hashtag_message_id": 31,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-09-04T13:36:07.515499+00:00"
 }
