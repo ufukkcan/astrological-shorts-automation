@@ -1,189 +1,134 @@
 {
-  "batch_id": "20260903-1431",
-  "trigger_date": "2026-09-03",
-  "message_id": 33,
-  "created_at": "2026-09-03T14:31:45.209323+00:00",
-  "status": "done",
+  "batch_id": "20260905-1538",
+  "trigger_date": "2026-09-05",
+  "message_id": 35,
+  "created_at": "2026-09-05T15:38:21.206098+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Last Quarter Moon in Gemini — Mental Crossroads",
-      "teaser": "The Moon is in Gemini right now — and it's forcing a decision you've been avoiding for weeks.",
-      "video_title": "Last Quarter Moon in Gemini Is Exposing Your Indecision",
-      "video_description": "The Last Quarter Moon in Gemini at 1.6° is a mental crossroads moment. With the Sun in Virgo analyzing every detail, this lunation asks you to cut through the noise and commit. Which story are you finally letting go of?",
+      "topic": "Last Quarter Moon in Cancer — Emotional Audit",
+      "teaser": "The Moon just shifted into Cancer at its Last Quarter phase — and what it's asking you to release might surprise you.",
+      "video_title": "Last Quarter Moon in Cancer — Emotional Audit",
+      "video_description": "The Last Quarter Moon in Cancer activates deep emotional release, especially with Mars also sitting in Cancer right now. Astrologers say this combination forces a reckoning with what you've been emotionally carrying. Are you ready to let it go?",
       "tags": [
         "lastquartermoon",
-        "mooningemini",
-        "geminiseason",
-        "virgoseason",
-        "lunarphases",
-        "moonastrology",
-        "geminimoon",
+        "moonincancer",
+        "cancermoon",
+        "marsincancer",
+        "moonphases",
+        "cancerseason",
+        "astrology",
+        "zodiac",
         "shorts",
-        "viral",
-        "astrology"
+        "viral"
       ],
-      "script": "You're being pulled in two directions right now — and the sky is the reason. The Last Quarter Moon is sitting in Gemini at just 1.6°, locking into a tense angle with the Virgo Sun. Gemini wants every option open. Virgo demands a decision. This moon phase is not about gathering more information — it's about releasing the version of yourself that refuses to choose. Which story are you finally willing to let go of?",
+      "script": "The Moon is in Cancer right now — and it's at its Last Quarter, which in astrology is the phase of releasing, not receiving. But here's what makes this one different: Mars is also sitting in Cancer at 16 degrees. That's your emotional drive and your grief in the same room at the same time. Astrologers say this combination surfaces things you've been pushing down for weeks. Old resentments. Unspoken needs. The feelings you called 'fine.' What are you still carrying that this Moon is asking you to put down?",
       "visual_keywords": [
-        "full moon night sky",
-        "galaxy stars",
-        "twin silhouette",
-        "night clouds moon",
-        "stars time lapse"
+        "crescent moon night",
+        "ocean waves night",
+        "woman crying rain",
+        "moon reflection water"
       ]
     },
     {
-      "topic": "Saturn Retrograde in Aries — The Rules That Aren't Working",
-      "teaser": "Saturn is retrograde in Aries right now — and the structure you built on urgency is cracking.",
-      "video_title": "Saturn Retrograde in Aries Is Calling Out Your Shortcuts",
-      "video_description": "Saturn is currently retrograde at 13.5° Aries, forcing a review of the systems, boundaries, and ambitions you rushed into. In astrology, Saturn retrograde is when karma becomes visible. The shortcuts you took are showing up — right now.",
+      "topic": "Saturn Retrograde in Aries — Conjunct Neptune Retrograde",
+      "teaser": "Two retrograde planets are sitting within 10 degrees of each other in Aries right now — and astrologers say this hasn't happened in your lifetime.",
+      "video_title": "Saturn and Neptune Both Retro in Aries — What That Means",
+      "video_description": "Saturn sits at 13° Aries retrograde and Neptune at 3° Aries retrograde — both slowly moving closer in the same sign. Astrologers interpret this as a rare collision between structure and illusion, forcing a reality check on your biggest beliefs. This combination doesn't let you hide.",
       "tags": [
         "saturnretrograde",
-        "saturnretro",
-        "saturnInaries",
-        "ariesseason",
-        "saturnastrology",
-        "retrogradeseason",
-        "karmaastrology",
-        "shorts",
-        "viral",
-        "astrology"
-      ],
-      "script": "Saturn is retrograde in Aries right now — and that combination doesn't mess around. Aries moves fast and asks questions later. Saturn retrograde makes you go back and answer every single one. At 13.5°, Saturn is in the middle of a deep review of the structures you built on impulse, the promises you made out of urgency, the rules you set and then quietly broke. The bill doesn't arrive late. It arrives exactly on time.",
-      "visual_keywords": [
-        "ancient ruins stone",
-        "hourglass sand",
-        "storm clouds",
-        "cracked wall texture",
-        "planet rings space"
-      ]
-    },
-    {
-      "topic": "Three Outer Planets Retrograde — Neptune and Pluto Specifics",
-      "teaser": "Neptune and Pluto are both retrograde right now — and together they're dismantling things you can't even name yet.",
-      "video_title": "Neptune & Pluto Retrograde: The Slow Demolition No One Talks About",
-      "video_description": "Neptune is retrograde at 3.6° Aries and Pluto at 3.5° Aquarius right now, both moving backward alongside Saturn. In astrology, these two retrograde together signal deep, generational dissolution — the kind of transformation that works beneath the surface before it surfaces.",
-      "tags": [
         "neptuneretrograde",
-        "plutoretrograde",
-        "neptuneInaries",
-        "plutoinaquarius",
-        "outerplanets",
+        "saturninarles",
+        "neptuneinarles",
         "retrogradeseason",
-        "plutoastrology",
+        "outerplanets",
+        "astrology",
+        "zodiac",
         "shorts",
-        "viral",
-        "astrology"
+        "viral"
       ],
-      "script": "Neptune and Pluto are both retrograde right now — and most people have no idea what that actually means. Neptune at 3.6° Aries is quietly dissolving the identity you thought was solid. Pluto at 3.5° Aquarius is tearing down the collective systems we built our certainty on. These aren't dramatic breakdowns. They're slow, invisible demolitions. The change happened weeks ago. You're only just starting to feel it.",
+      "script": "Saturn and Neptune are both retrograde in Aries right now — Saturn at 13 degrees, Neptune at 3. That's two of the slowest planets in the sky sitting in the same sign at the same time, both moving backwards. In astrology, Saturn is your structure, your discipline, your rules. Neptune is your dreams, your illusions, the stories you tell yourself. When they share a sign in retrograde, astrologers say the things you built on false foundations start to crack. Which version of your life is real — and which one did you just convince yourself to believe?",
       "visual_keywords": [
-        "deep ocean underwater",
-        "fog misty forest",
-        "dark space nebula",
-        "smoke dark background",
-        "abstract light waves"
+        "planet rings space",
+        "fog misty landscape",
+        "crumbling stone wall",
+        "night sky stars"
       ]
     },
     {
-      "topic": "Uranus in Gemini — The Astrology Cycle That Rewires How You Think",
-      "teaser": "Uranus just moved into Gemini — and historically, every time this happens, the world changes how it communicates forever.",
-      "video_title": "Uranus in Gemini: The Transit That Rewires Human Communication",
-      "video_description": "Uranus is currently at 5.7° Gemini — a placement that only happens every 84 years. In astrological tradition, Uranus in Gemini correlates with radical shifts in information, technology, and how humans exchange ideas. The last time it was here, mass media was born.",
+      "topic": "Pluto Retrograde in Aquarius — Power Structures Turning Inward",
+      "teaser": "Pluto has been retrograde in Aquarius all year — and most people have no idea what it's quietly dismantling.",
+      "video_title": "Pluto Retro in Aquarius — What It's Secretly Dismantling",
+      "video_description": "Pluto retrograde in Aquarius at 3.4° turns the planet of transformation inward, away from collective systems and toward personal power dynamics. Astrologers say this transit exposes where you've been giving your power away to groups, ideologies, or technology. The revolution starts inside.",
       "tags": [
-        "uranusingemini",
-        "uranustransit",
-        "uranusastrology",
-        "geminienergy",
-        "astrologycycles",
-        "mundaneastrology",
-        "airenergyastrology",
+        "plutoretrograde",
+        "plutoinaquarius",
+        "aquariusseason",
+        "plutotransit",
+        "retrogradeplanets",
+        "astrologypredictions",
+        "astrology",
+        "zodiac",
         "shorts",
-        "viral",
-        "astrology"
+        "viral"
       ],
-      "script": "Uranus is in Gemini right now — and that only happens every 84 years. The last time Uranus was here, the world was figuring out how to send information across impossible distances. In astrology, Uranus rules disruption, and Gemini rules communication and the mind. Every time these two meet, something fundamental about how humans think, speak, and connect gets torn apart and rebuilt. We are inside that moment right now.",
+      "script": "Pluto is retrograde in Aquarius right now — and in astrology, when Pluto goes backward, the transformation stops happening out there and starts happening in here. Aquarius rules systems, communities, technology, the collective. So Pluto retrograde here forces a personal question: where have you handed your power over to a group, a platform, an ideology — and called it belonging? Astrologers say this retrograde period strips away the identity you borrowed from others. The version of you that nobody assigned you — that's what Pluto is trying to find. Are you ready for that?",
       "visual_keywords": [
-        "fiber optic light",
-        "lightning storm night",
-        "data technology blue",
-        "radio tower night",
-        "constellation gemini"
+        "dark space galaxy",
+        "city lights aerial night",
+        "person alone crowd",
+        "black hole space"
       ]
     },
     {
-      "topic": "The Astrological 6th House — The House of Daily Life",
-      "teaser": "The most underrated house in your birth chart isn't the 8th or the 12th — it's the one hiding your daily patterns.",
-      "video_title": "The 6th House: The Most Underrated Placement in Your Chart",
-      "video_description": "The 6th house rules daily routine, health habits, and the quality of your ordinary days — yet most people ignore it completely. In traditional astrology, this house was called the House of Illness, but modern astrologers see it as the blueprint for sustainable living.",
+      "topic": "The Astrological 4th House — Your Hidden Roots",
+      "teaser": "Your 4th house is the most private part of your birth chart — and it reveals something about you that your Sun sign never could.",
+      "video_title": "The 4th House — The Most Private Part of Your Chart",
+      "video_description": "The 4th house in astrology rules home, roots, family lineage, and your private emotional foundation. Whatever sign sits on your 4th house cusp reveals the invisible blueprint shaping how you feel safe — or unsafe — in the world. It's the part of you most people never see.",
       "tags": [
-        "6thhouse",
+        "4thhouse",
         "birthchart",
-        "astrologyhours",
-        "natalchart",
+        "astrologyhomes",
         "housesofastrology",
-        "astrologytips",
-        "chartreading",
+        "natalchart",
+        "astrologybasics",
+        "astrology",
+        "zodiac",
         "shorts",
-        "viral",
-        "astrology"
+        "viral"
       ],
-      "script": "Everyone obsesses over the 8th house for transformation and the 12th for hidden enemies — but the house that actually runs your life? It's the 6th. Your daily routine, your body's patterns, what breaks down when you stop taking care of yourself — all of it lives here. In traditional astrology it was called the House of Illness. Modern astrologers call it the House of Service and Health. Either way, ignore it and your chart will find a way to remind you.",
+      "script": "The 4th house in your birth chart is the part of you that nobody sees — not even people close to you. In astrology it rules your roots: your childhood home, your family lineage, the emotional patterns passed down before you could speak. The sign on your 4th house cusp tells astrologers what you need to feel truly safe, and most of the time, it's the opposite of how you present yourself to the world. Your Sun sign is your performance. Your 4th house is the room you go back to when the performance is over. Do you even know what sign rules yours?",
       "visual_keywords": [
-        "morning routine sunrise",
-        "healthy lifestyle desk",
-        "calendar planner",
-        "yoga meditation woman",
-        "clock time minimal"
+        "old family home",
+        "childhood bedroom",
+        "family tree roots",
+        "ancient door hallway"
+      ]
+    },
+    {
+      "topic": "Venus in Libra — Approaching Retrograde Shadow",
+      "teaser": "Venus is in Libra right now at nearly 27 degrees — and what comes next for your relationships is already being written.",
+      "video_title": "Venus in Libra at 27° — What's Coming for Relationships",
+      "video_description": "Venus sits at 26.7° Libra right now, the sign it rules, operating at full relational power. Astrologers say Venus in its home sign heightens the need for balance, beauty, and fairness in relationships — but also exposes where those things are missing. Pay attention to what feels unequal right now.",
+      "tags": [
+        "venusinlibra",
+        "libraseason",
+        "venustransit",
+        "relationshipastrology",
+        "libraastrology",
+        "venusastrology",
+        "astrology",
+        "zodiac",
+        "shorts",
+        "viral"
+      ],
+      "script": "Venus is at 26 degrees Libra right now — its own sign, which means it's operating at full power. In astrology, Venus in Libra doesn't just want love, it wants love that's fair, balanced, and beautiful in structure. But here's the thing: when Venus is this strong, it also makes imbalance unbearable. Anything in your relationships that's been quietly off — the uneven effort, the unspoken resentment, the deal you settled for — Venus at this degree puts it directly in your face. What are you still pretending is balanced when you already know it isn't?",
+      "visual_keywords": [
+        "couple silhouette sunset",
+        "balance scale golden",
+        "rose petals table",
+        "two people talking cafe"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Last Quarter Moon in Gemini — Mental Crossroads",
-    "teaser": "The Moon is in Gemini right now — and it's forcing a decision you've been avoiding for weeks.",
-    "video_title": "Last Quarter Moon in Gemini Is Exposing Your Indecision",
-    "video_description": "Last Quarter Moon in Gemini — Mental Crossroads\n\n#lastquartermoon #mooningemini #geminiseason #virgoseason #lunarphases",
-    "tags": [
-      "lastquartermoon",
-      "mooningemini",
-      "geminiseason",
-      "virgoseason",
-      "lunarphases",
-      "moonastrology",
-      "geminimoon",
-      "shorts",
-      "viral",
-      "astrology"
-    ],
-    "script": "You're being pulled in two directions right now — and the sky is the reason. The Last Quarter Moon is sitting in Gemini at just 1.6°, locking into a tense angle with the Virgo Sun. Gemini wants every option open. Virgo demands a decision. This moon phase is not about gathering more information — it's about releasing the version of yourself that refuses to choose. Which story are you finally willing to let go of?",
-    "visual_keywords": [
-      "full moon night sky",
-      "galaxy stars",
-      "twin silhouette",
-      "night clouds moon",
-      "stars time lapse"
-    ]
-  },
-  "hashtag_options": [
-    "lastquartermoon",
-    "mooningemini",
-    "geminiseason",
-    "virgoseason",
-    "lunarphases",
-    "moonastrology",
-    "geminimoon",
-    "shorts",
-    "viral",
-    "astrology"
-  ],
-  "hashtag_message_id": 31,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-09-04T13:36:07.515499+00:00",
-  "video_file_id": "BAACAgQAAxkDAAMhapwP--UXeV99SUOxqAvrf1GqAkYAAicgAAKjVOBQ1CHyDI_zXE49BA",
-  "review_started_at": "2026-09-05T12:50:03.257900+00:00",
-  "attempts": 1
+  ]
 }
