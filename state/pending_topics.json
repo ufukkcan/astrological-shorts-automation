@@ -1,9 +1,9 @@
 {
   "batch_id": "20260903-1431",
   "trigger_date": "2026-09-03",
-  "message_id": 30,
+  "message_id": 33,
   "created_at": "2026-09-03T14:31:45.209323+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Last Quarter Moon in Gemini — Mental Crossroads",
@@ -140,7 +140,7 @@
     "topic": "Last Quarter Moon in Gemini — Mental Crossroads",
     "teaser": "The Moon is in Gemini right now — and it's forcing a decision you've been avoiding for weeks.",
     "video_title": "Last Quarter Moon in Gemini Is Exposing Your Indecision",
-    "video_description": "The Last Quarter Moon in Gemini at 1.6° is a mental crossroads moment. With the Sun in Virgo analyzing every detail, this lunation asks you to cut through the noise and commit. Which story are you finally letting go of?",
+    "video_description": "Last Quarter Moon in Gemini — Mental Crossroads\n\n#lastquartermoon #mooningemini #geminiseason #virgoseason #lunarphases",
     "tags": [
       "lastquartermoon",
       "mooningemini",
@@ -175,6 +175,15 @@
     "astrology"
   ],
   "hashtag_message_id": 31,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-09-04T13:36:07.515499+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-09-04T13:36:07.515499+00:00",
+  "video_file_id": "BAACAgQAAxkDAAMhapwP--UXeV99SUOxqAvrf1GqAkYAAicgAAKjVOBQ1CHyDI_zXE49BA",
+  "review_started_at": "2026-09-05T12:50:03.257900+00:00",
+  "attempts": 1
 }
