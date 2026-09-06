@@ -3,7 +3,7 @@
   "trigger_date": "2026-09-05",
   "message_id": 35,
   "created_at": "2026-09-05T15:38:21.206098+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Last Quarter Moon in Cancer — Emotional Audit",
@@ -130,5 +130,45 @@
         "two people talking cafe"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Last Quarter Moon in Cancer — Emotional Audit",
+    "teaser": "The Moon just shifted into Cancer at its Last Quarter phase — and what it's asking you to release might surprise you.",
+    "video_title": "Last Quarter Moon in Cancer — Emotional Audit",
+    "video_description": "The Last Quarter Moon in Cancer activates deep emotional release, especially with Mars also sitting in Cancer right now. Astrologers say this combination forces a reckoning with what you've been emotionally carrying. Are you ready to let it go?",
+    "tags": [
+      "lastquartermoon",
+      "moonincancer",
+      "cancermoon",
+      "marsincancer",
+      "moonphases",
+      "cancerseason",
+      "astrology",
+      "zodiac",
+      "shorts",
+      "viral"
+    ],
+    "script": "The Moon is in Cancer right now — and it's at its Last Quarter, which in astrology is the phase of releasing, not receiving. But here's what makes this one different: Mars is also sitting in Cancer at 16 degrees. That's your emotional drive and your grief in the same room at the same time. Astrologers say this combination surfaces things you've been pushing down for weeks. Old resentments. Unspoken needs. The feelings you called 'fine.' What are you still carrying that this Moon is asking you to put down?",
+    "visual_keywords": [
+      "crescent moon night",
+      "ocean waves night",
+      "woman crying rain",
+      "moon reflection water"
+    ]
+  },
+  "hashtag_options": [
+    "lastquartermoon",
+    "moonincancer",
+    "cancermoon",
+    "marsincancer",
+    "moonphases",
+    "cancerseason",
+    "astrology",
+    "zodiac",
+    "shorts",
+    "viral"
+  ],
+  "hashtag_message_id": 36,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-09-06T13:02:02.497101+00:00"
 }
