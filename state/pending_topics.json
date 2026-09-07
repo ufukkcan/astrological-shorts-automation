@@ -1,183 +1,139 @@
 {
-  "batch_id": "20260905-1538",
-  "trigger_date": "2026-09-05",
-  "message_id": 38,
-  "created_at": "2026-09-05T15:38:21.206098+00:00",
-  "status": "done",
+  "batch_id": "20260907-1340",
+  "trigger_date": "2026-09-07",
+  "message_id": 40,
+  "created_at": "2026-09-07T13:40:26.936887+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Last Quarter Moon in Cancer — Emotional Audit",
-      "teaser": "The Moon just shifted into Cancer at its Last Quarter phase — and what it's asking you to release might surprise you.",
-      "video_title": "Last Quarter Moon in Cancer — Emotional Audit",
-      "video_description": "The Last Quarter Moon in Cancer activates deep emotional release, especially with Mars also sitting in Cancer right now. Astrologers say this combination forces a reckoning with what you've been emotionally carrying. Are you ready to let it go?",
+      "topic": "Waning Crescent Moon in Cancer — Emotional Endings",
+      "teaser": "The Moon is in Cancer right now — and it's doing something most people completely miss during this phase.",
+      "video_title": "Waning Crescent in Cancer — What You're Supposed to Let Go",
+      "video_description": "The Waning Crescent Moon in Cancer on September 7 signals a deep emotional release cycle. This is the chart's quiet instruction to stop holding on. Learn what astrology says this phase is really for.",
       "tags": [
-        "lastquartermoon",
+        "waningcrescent",
         "moonincancer",
         "cancermoon",
-        "marsincancer",
-        "moonphases",
-        "cancerseason",
-        "astrology",
-        "zodiac",
+        "lunarphases",
+        "moonastrology",
+        "emotionalrelease",
+        "moonenergy",
         "shorts",
-        "viral"
+        "viral",
+        "astrology"
       ],
-      "script": "The Moon is in Cancer right now — and it's at its Last Quarter, which in astrology is the phase of releasing, not receiving. But here's what makes this one different: Mars is also sitting in Cancer at 16 degrees. That's your emotional drive and your grief in the same room at the same time. Astrologers say this combination surfaces things you've been pushing down for weeks. Old resentments. Unspoken needs. The feelings you called 'fine.' What are you still carrying that this Moon is asking you to put down?",
+      "script": "The Moon is in Cancer right now — and it's almost gone. This Waning Crescent phase is the lunar cycle's final exhale, and in Cancer, astrologers say it hits the emotional body hardest. Cancer rules home, memory, and everything you secretly refuse to release. This isn't a time to start anything. Traditional lunar astrology reads this as a signal to grieve quietly, let old feelings dissolve, and clear space before the next New Moon arrives. What are you still holding that this cycle is asking you to finally put down?",
       "visual_keywords": [
         "crescent moon night",
-        "ocean waves night",
-        "woman crying rain",
-        "moon reflection water"
+        "moonlight water reflection",
+        "calm ocean night",
+        "night sky stars",
+        "misty lake moon"
       ]
     },
     {
-      "topic": "Saturn Retrograde in Aries — Conjunct Neptune Retrograde",
-      "teaser": "Two retrograde planets are sitting within 10 degrees of each other in Aries right now — and astrologers say this hasn't happened in your lifetime.",
-      "video_title": "Saturn and Neptune Both Retro in Aries — What That Means",
-      "video_description": "Saturn sits at 13° Aries retrograde and Neptune at 3° Aries retrograde — both slowly moving closer in the same sign. Astrologers interpret this as a rare collision between structure and illusion, forcing a reality check on your biggest beliefs. This combination doesn't let you hide.",
+      "topic": "Mars in Cancer Conjunct the Moon — Emotional Flashpoint",
+      "teaser": "Mars and the Moon are sitting in the exact same degree of Cancer right now — astrologers call this a collision.",
+      "video_title": "Mars Meets Moon in Cancer — Emotional Flashpoint Today",
+      "video_description": "On September 7, Mars sits at 17° Cancer while the Moon moves through 28° Cancer — both in the same emotionally charged sign. In astrology, Mars conjunct the Moon in Cancer can amplify reactive emotions and defensive instincts. Here's what that actually means for you.",
+      "tags": [
+        "marsincancer",
+        "moonmars",
+        "cancerseason",
+        "marsastrology",
+        "emotionalastrology",
+        "planetaryaspects",
+        "cancerzodiac",
+        "shorts",
+        "viral",
+        "astrology"
+      ],
+      "script": "Mars and the Moon are both in Cancer right now — and that combination is one astrology doesn't take lightly. Mars is the planet of drive, aggression, and reaction. The Moon rules your emotional core. When they share the same sign, traditional astrology says your feelings don't just surface — they ignite. Cancer is already the most protective sign in the zodiac. Put Mars there and that protection can tip into defensiveness fast. If something felt personal today, this placement might be exactly why. Which sign are you?",
+      "visual_keywords": [
+        "red planet space",
+        "storm ocean waves",
+        "lightning dark clouds",
+        "fire reflection water",
+        "galaxy space"
+      ]
+    },
+    {
+      "topic": "Saturn Retrograde in Aries — Conjunct Neptune Retrograde, Both at 13° and 3°",
+      "teaser": "Saturn and Neptune are both retrograde in Aries right now — and they're closer together than most people realize.",
+      "video_title": "Saturn & Neptune Retrograde in Aries — The Slow Collision",
+      "video_description": "With Saturn at 13° Aries retrograde and Neptune at 3° Aries retrograde on September 7, these two slow-moving planets are sharing the same sign in reverse motion. Astrologers call this a rare and disorienting combination — structure dissolving from the inside out.",
       "tags": [
         "saturnretrograde",
         "neptuneretrograde",
-        "saturninarles",
-        "neptuneinarles",
+        "saturninaries",
+        "neptuneinaries",
         "retrogradeseason",
         "outerplanets",
-        "astrology",
-        "zodiac",
+        "ariesastrology",
         "shorts",
-        "viral"
+        "viral",
+        "astrology"
       ],
-      "script": "Saturn and Neptune are both retrograde in Aries right now — Saturn at 13 degrees, Neptune at 3. That's two of the slowest planets in the sky sitting in the same sign at the same time, both moving backwards. In astrology, Saturn is your structure, your discipline, your rules. Neptune is your dreams, your illusions, the stories you tell yourself. When they share a sign in retrograde, astrologers say the things you built on false foundations start to crack. Which version of your life is real — and which one did you just convince yourself to believe?",
+      "script": "Saturn and Neptune are both retrograde in Aries right now — and in astrology, that pairing is genuinely unusual. Saturn is the planet of rules, limits, and hard reality. Neptune dissolves everything it touches. When they occupy the same sign in reverse motion, astrologers describe it as a period where the structures you built on shaky foundations start to feel it. Aries rules identity and initiative. So the question this transit keeps asking is: what are you pushing for — and is the foundation underneath it actually real?",
       "visual_keywords": [
-        "planet rings space",
-        "fog misty landscape",
-        "crumbling stone wall",
+        "planets space",
+        "foggy mountain path",
+        "ancient ruins",
+        "storm clouds dramatic",
         "night sky stars"
       ]
     },
     {
-      "topic": "Pluto Retrograde in Aquarius — Power Structures Turning Inward",
-      "teaser": "Pluto has been retrograde in Aquarius all year — and most people have no idea what it's quietly dismantling.",
-      "video_title": "Pluto Retro in Aquarius — What It's Secretly Dismantling",
-      "video_description": "Pluto retrograde in Aquarius at 3.4° turns the planet of transformation inward, away from collective systems and toward personal power dynamics. Astrologers say this transit exposes where you've been giving your power away to groups, ideologies, or technology. The revolution starts inside.",
+      "topic": "The Astrological 8th House — Transformation, Debt, and What You Can't Control",
+      "teaser": "The 8th house is the part of your birth chart most people don't want to look at — but it explains a lot.",
+      "video_title": "The 8th House — The Part of Your Chart Nobody Talks About",
+      "video_description": "The 8th house in astrology governs transformation, shared resources, death and rebirth cycles, and everything outside your control. It's one of the most misunderstood placements in the chart — and one of the most revealing.",
       "tags": [
-        "plutoretrograde",
-        "plutoinaquarius",
-        "aquariusseason",
-        "plutotransit",
-        "retrogradeplanets",
-        "astrologypredictions",
-        "astrology",
-        "zodiac",
-        "shorts",
-        "viral"
-      ],
-      "script": "Pluto is retrograde in Aquarius right now — and in astrology, when Pluto goes backward, the transformation stops happening out there and starts happening in here. Aquarius rules systems, communities, technology, the collective. So Pluto retrograde here forces a personal question: where have you handed your power over to a group, a platform, an ideology — and called it belonging? Astrologers say this retrograde period strips away the identity you borrowed from others. The version of you that nobody assigned you — that's what Pluto is trying to find. Are you ready for that?",
-      "visual_keywords": [
-        "dark space galaxy",
-        "city lights aerial night",
-        "person alone crowd",
-        "black hole space"
-      ]
-    },
-    {
-      "topic": "The Astrological 4th House — Your Hidden Roots",
-      "teaser": "Your 4th house is the most private part of your birth chart — and it reveals something about you that your Sun sign never could.",
-      "video_title": "The 4th House — The Most Private Part of Your Chart",
-      "video_description": "The 4th house in astrology rules home, roots, family lineage, and your private emotional foundation. Whatever sign sits on your 4th house cusp reveals the invisible blueprint shaping how you feel safe — or unsafe — in the world. It's the part of you most people never see.",
-      "tags": [
-        "4thhouse",
+        "8thhouse",
         "birthchart",
-        "astrologyhomes",
+        "astrologyhouses",
+        "natal chart",
+        "plutoinaqarius",
+        "transformationastrology",
         "housesofastrology",
-        "natalchart",
-        "astrologybasics",
-        "astrology",
-        "zodiac",
         "shorts",
-        "viral"
+        "viral",
+        "astrology"
       ],
-      "script": "The 4th house in your birth chart is the part of you that nobody sees — not even people close to you. In astrology it rules your roots: your childhood home, your family lineage, the emotional patterns passed down before you could speak. The sign on your 4th house cusp tells astrologers what you need to feel truly safe, and most of the time, it's the opposite of how you present yourself to the world. Your Sun sign is your performance. Your 4th house is the room you go back to when the performance is over. Do you even know what sign rules yours?",
+      "script": "If there's one house in your birth chart that tells the truth about you — it's the 8th. In traditional astrology, the 8th house rules transformation, debt, inheritance, and the things in your life you simply cannot control. It's associated with Scorpio and Pluto — both known for going where most people refuse to. Astrologers say wherever Pluto sits in your chart, the 8th house theme follows. This is the house of endings that become beginnings. Most people skip it. The ones who don't tend to understand themselves on a completely different level.",
       "visual_keywords": [
-        "old family home",
-        "childhood bedroom",
-        "family tree roots",
-        "ancient door hallway"
+        "dark tunnel light end",
+        "ancient temple ruins",
+        "mysterious door light",
+        "tarot cards dark",
+        "shadow figure silhouette"
       ]
     },
     {
-      "topic": "Venus in Libra — Approaching Retrograde Shadow",
-      "teaser": "Venus is in Libra right now at nearly 27 degrees — and what comes next for your relationships is already being written.",
-      "video_title": "Venus in Libra at 27° — What's Coming for Relationships",
-      "video_description": "Venus sits at 26.7° Libra right now, the sign it rules, operating at full relational power. Astrologers say Venus in its home sign heightens the need for balance, beauty, and fairness in relationships — but also exposes where those things are missing. Pay attention to what feels unequal right now.",
+      "topic": "Venus in Libra — What Happens When a Planet Rules Its Own Sign",
+      "teaser": "Venus is in Libra right now — and that specific placement changes how this planet behaves in a way most people never learn.",
+      "video_title": "Venus in Libra — Why This Placement Hits Different",
+      "video_description": "With Venus currently at 28° Libra, it's operating in its own sign — what astrologers call domicile. This is considered one of Venus's strongest and most natural expressions. Here's what that means for love, beauty, and relationships right now.",
       "tags": [
         "venusinlibra",
-        "libraseason",
-        "venustransit",
-        "relationshipastrology",
-        "libraastrology",
+        "libra",
         "venusastrology",
-        "astrology",
-        "zodiac",
+        "domicile",
+        "libraseason",
+        "venusplanet",
+        "relationshipastrology",
         "shorts",
-        "viral"
+        "viral",
+        "astrology"
       ],
-      "script": "Venus is at 26 degrees Libra right now — its own sign, which means it's operating at full power. In astrology, Venus in Libra doesn't just want love, it wants love that's fair, balanced, and beautiful in structure. But here's the thing: when Venus is this strong, it also makes imbalance unbearable. Anything in your relationships that's been quietly off — the uneven effort, the unspoken resentment, the deal you settled for — Venus at this degree puts it directly in your face. What are you still pretending is balanced when you already know it isn't?",
+      "script": "Venus is at 28° Libra right now — and that matters more than most people realize. In astrology, when a planet occupies the sign it rules, it's called domicile. Venus rules Libra. So right now, astrologers consider Venus to be operating at full strength — its values, its preferences, its way of connecting completely unfiltered. Libra is the sign of balance, beauty, and partnership. Traditional astrology says this placement makes charm effortless but also raises the stakes on fairness in relationships. What feels out of balance in yours right now?",
       "visual_keywords": [
-        "couple silhouette sunset",
-        "balance scale golden",
-        "rose petals table",
-        "two people talking cafe"
+        "rose gold aesthetic",
+        "elegant woman mirror",
+        "balance scale gold",
+        "soft light flowers",
+        "luxury interior design"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Last Quarter Moon in Cancer — Emotional Audit",
-    "teaser": "The Moon just shifted into Cancer at its Last Quarter phase — and what it's asking you to release might surprise you.",
-    "video_title": "Last Quarter Moon in Cancer — Emotional Audit",
-    "video_description": "Last Quarter Moon in Cancer — Emotional Audit\n\n#lastquartermoon #moonincancer #cancermoon #marsincancer #moonphases",
-    "tags": [
-      "lastquartermoon",
-      "moonincancer",
-      "cancermoon",
-      "marsincancer",
-      "moonphases",
-      "cancerseason",
-      "astrology",
-      "zodiac",
-      "shorts",
-      "viral"
-    ],
-    "script": "The Moon is in Cancer right now — and it's at its Last Quarter, which in astrology is the phase of releasing, not receiving. But here's what makes this one different: Mars is also sitting in Cancer at 16 degrees. That's your emotional drive and your grief in the same room at the same time. Astrologers say this combination surfaces things you've been pushing down for weeks. Old resentments. Unspoken needs. The feelings you called 'fine.' What are you still carrying that this Moon is asking you to put down?",
-    "visual_keywords": [
-      "crescent moon night",
-      "ocean waves night",
-      "woman crying rain",
-      "moon reflection water"
-    ]
-  },
-  "hashtag_options": [
-    "lastquartermoon",
-    "moonincancer",
-    "cancermoon",
-    "marsincancer",
-    "moonphases",
-    "cancerseason",
-    "astrology",
-    "zodiac",
-    "shorts",
-    "viral"
-  ],
-  "hashtag_message_id": 36,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-09-06T13:02:02.497101+00:00",
-  "video_file_id": "BAACAgQAAxkDAAMmap6IjAKDVPTv4ONMTJ5wPXnQhaQAAuwjAALrX_FQuYElcx8pEEY9BA",
-  "review_started_at": "2026-09-07T09:49:01.038527+00:00",
-  "attempts": 1
+  ]
 }
