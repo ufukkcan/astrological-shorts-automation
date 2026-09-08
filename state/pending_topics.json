@@ -3,7 +3,7 @@
   "trigger_date": "2026-09-07",
   "message_id": 40,
   "created_at": "2026-09-07T13:40:26.936887+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Waning Crescent Moon in Cancer — Emotional Endings",
@@ -135,5 +135,46 @@
         "luxury interior design"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Waning Crescent Moon in Cancer — Emotional Endings",
+    "teaser": "The Moon is in Cancer right now — and it's doing something most people completely miss during this phase.",
+    "video_title": "Waning Crescent in Cancer — What You're Supposed to Let Go",
+    "video_description": "The Waning Crescent Moon in Cancer on September 7 signals a deep emotional release cycle. This is the chart's quiet instruction to stop holding on. Learn what astrology says this phase is really for.",
+    "tags": [
+      "waningcrescent",
+      "moonincancer",
+      "cancermoon",
+      "lunarphases",
+      "moonastrology",
+      "emotionalrelease",
+      "moonenergy",
+      "shorts",
+      "viral",
+      "astrology"
+    ],
+    "script": "The Moon is in Cancer right now — and it's almost gone. This Waning Crescent phase is the lunar cycle's final exhale, and in Cancer, astrologers say it hits the emotional body hardest. Cancer rules home, memory, and everything you secretly refuse to release. This isn't a time to start anything. Traditional lunar astrology reads this as a signal to grieve quietly, let old feelings dissolve, and clear space before the next New Moon arrives. What are you still holding that this cycle is asking you to finally put down?",
+    "visual_keywords": [
+      "crescent moon night",
+      "moonlight water reflection",
+      "calm ocean night",
+      "night sky stars",
+      "misty lake moon"
+    ]
+  },
+  "hashtag_options": [
+    "waningcrescent",
+    "moonincancer",
+    "cancermoon",
+    "lunarphases",
+    "moonastrology",
+    "emotionalrelease",
+    "moonenergy",
+    "shorts",
+    "viral",
+    "astrology"
+  ],
+  "hashtag_message_id": 41,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-09-08T11:19:55.334149+00:00"
 }
