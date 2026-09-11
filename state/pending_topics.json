@@ -3,7 +3,7 @@
   "trigger_date": "2026-09-10",
   "message_id": 46,
   "created_at": "2026-09-10T14:24:55.306567+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "New Moon in Virgo — Reset Your Daily Life",
@@ -135,5 +135,46 @@
         "planets space"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "New Moon in Virgo — Reset Your Daily Life",
+    "teaser": "A New Moon just landed in the most precise sign of the zodiac — and it's asking you to fix something you've been ignoring.",
+    "video_title": "New Moon in Virgo Is Asking You to Fix One Thing",
+    "video_description": "The New Moon in Virgo on September 10 opens a powerful reset window for habits, health, and daily routines. With the Sun also in Virgo, this lunation doubles down on precision and improvement. Set one concrete intention — not a vague wish.",
+    "tags": [
+      "newmooninvirgo",
+      "virgoseason",
+      "newmoon2026",
+      "virgomoon",
+      "lunarastrology",
+      "moonritual",
+      "shorts",
+      "viral",
+      "astrology",
+      "zodiac"
+    ],
+    "script": "The New Moon just hit Virgo — and this one doesn't care about your big dreams, it cares about your daily life. In astrology, Virgo new moons are considered the most precise reset of the year — the kind that targets systems, habits, and the small things you keep putting off. With the Sun also at 17 degrees Virgo, this lunation is doubled down. One broken routine. One neglected detail. That's what this moon is pointing at. What needs fixing in your life right now?",
+    "visual_keywords": [
+      "crescent moon night sky",
+      "night sky stars",
+      "woman writing journal",
+      "clean minimal desk",
+      "moonrise"
+    ]
+  },
+  "hashtag_options": [
+    "newmooninvirgo",
+    "virgoseason",
+    "newmoon2026",
+    "virgomoon",
+    "lunarastrology",
+    "moonritual",
+    "shorts",
+    "viral",
+    "astrology",
+    "zodiac"
+  ],
+  "hashtag_message_id": 47,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-09-11T13:40:11.402655+00:00"
 }
