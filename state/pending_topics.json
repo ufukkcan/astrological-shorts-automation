@@ -1,9 +1,9 @@
 {
   "batch_id": "20260910-1424",
   "trigger_date": "2026-09-10",
-  "message_id": 46,
+  "message_id": 49,
   "created_at": "2026-09-10T14:24:55.306567+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "New Moon in Virgo — Reset Your Daily Life",
@@ -140,7 +140,7 @@
     "topic": "New Moon in Virgo — Reset Your Daily Life",
     "teaser": "A New Moon just landed in the most precise sign of the zodiac — and it's asking you to fix something you've been ignoring.",
     "video_title": "New Moon in Virgo Is Asking You to Fix One Thing",
-    "video_description": "The New Moon in Virgo on September 10 opens a powerful reset window for habits, health, and daily routines. With the Sun also in Virgo, this lunation doubles down on precision and improvement. Set one concrete intention — not a vague wish.",
+    "video_description": "New Moon in Virgo — Reset Your Daily Life\n\n#newmooninvirgo #virgoseason #newmoon2026 #virgomoon #lunarastrology",
     "tags": [
       "newmooninvirgo",
       "virgoseason",
@@ -175,6 +175,15 @@
     "zodiac"
   ],
   "hashtag_message_id": 47,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-09-11T13:40:11.402655+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-09-11T13:40:11.402655+00:00",
+  "video_file_id": "BAACAgQAAxkDAAMxaqU9CuhijHcMN7RVea3lg6YZbfMAAtAdAAIarChRwXRCL4Qb4A49BA",
+  "review_started_at": "2026-09-12T11:52:42.205170+00:00",
+  "attempts": 1
 }
