@@ -3,7 +3,7 @@
   "trigger_date": "2026-09-13",
   "message_id": 52,
   "created_at": "2026-09-13T14:57:43.213999+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Four Planets Retrograde Right Now — September 2026",
@@ -135,5 +135,46 @@
         "night sky stars"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Four Planets Retrograde Right Now — September 2026",
+    "teaser": "Four planets are retrograde at the same time right now — and astrologers say one of them is the most disruptive.",
+    "video_title": "4 Planets Are Retrograde Right Now — One Changes Everything",
+    "video_description": "Saturn, Uranus, Neptune, and Pluto are all retrograde simultaneously in September 2026. Astrologers interpret this as a rare period of deep internal revision across structures, identity, and power. Here's what that means for you.",
+    "tags": [
+      "saturnretrograde",
+      "uranusretrograde",
+      "neptuneretrograde",
+      "plutoretrograde",
+      "retrogradeseason",
+      "astrology2026",
+      "planetaryretrograde",
+      "shorts",
+      "viral",
+      "astrology"
+    ],
+    "script": "Four planets are retrograde right now — at the exact same time. Saturn, Uranus, Neptune, and Pluto are all moving backward, and in astrology, that's not random noise. Saturn in Aries is pressuring your foundations. Uranus in Gemini is rewiring how you think. Neptune in Aries is dissolving what you thought was real. And Pluto in Aquarius is quietly dismantling power structures from the inside out. The question isn't whether you feel this — it's which layer of your life is cracking open first.",
+    "visual_keywords": [
+      "planets space",
+      "night sky stars",
+      "galaxy space",
+      "solar system",
+      "cosmic background"
+    ]
+  },
+  "hashtag_options": [
+    "saturnretrograde",
+    "uranusretrograde",
+    "neptuneretrograde",
+    "plutoretrograde",
+    "retrogradeseason",
+    "astrology2026",
+    "planetaryretrograde",
+    "shorts",
+    "viral",
+    "astrology"
+  ],
+  "hashtag_message_id": 53,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-09-14T16:30:04.459675+00:00"
 }
