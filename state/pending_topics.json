@@ -1,9 +1,9 @@
 {
   "batch_id": "20260913-1457",
   "trigger_date": "2026-09-13",
-  "message_id": 52,
+  "message_id": 55,
   "created_at": "2026-09-13T14:57:43.213999+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Four Planets Retrograde Right Now — September 2026",
@@ -140,7 +140,7 @@
     "topic": "Four Planets Retrograde Right Now — September 2026",
     "teaser": "Four planets are retrograde at the same time right now — and astrologers say one of them is the most disruptive.",
     "video_title": "4 Planets Are Retrograde Right Now — One Changes Everything",
-    "video_description": "Saturn, Uranus, Neptune, and Pluto are all retrograde simultaneously in September 2026. Astrologers interpret this as a rare period of deep internal revision across structures, identity, and power. Here's what that means for you.",
+    "video_description": "Four Planets Retrograde Right Now — September 2026\n\n#saturnretrograde #uranusretrograde #neptuneretrograde #plutoretrograde #retrogradeseason",
     "tags": [
       "saturnretrograde",
       "uranusretrograde",
@@ -175,6 +175,15 @@
     "astrology"
   ],
   "hashtag_message_id": 53,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-09-14T16:30:04.459675+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-09-14T16:30:04.459675+00:00",
+  "video_file_id": "BAACAgQAAxkDAAM3aql4OQxQn9Pr608Em3F_o3LZ71kAAgIgAAJ_s1BRuKXlmUqqzZs9BA",
+  "review_started_at": "2026-09-15T16:54:17.493724+00:00",
+  "attempts": 1
 }
