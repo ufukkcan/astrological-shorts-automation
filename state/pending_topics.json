@@ -3,7 +3,7 @@
   "trigger_date": "2026-09-16",
   "message_id": 58,
   "created_at": "2026-09-16T18:29:06.231316+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Waxing Crescent Moon in Sagittarius — Restless Expansion",
@@ -135,5 +135,46 @@
         "globe world map"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Waxing Crescent Moon in Sagittarius — Restless Expansion",
+    "teaser": "The Moon just moved into Sagittarius — and if you've been feeling a sudden urge to escape everything, that's exactly why.",
+    "video_title": "Moon in Sagittarius — Why You Suddenly Want to Run",
+    "video_description": "The Waxing Crescent Moon in Sagittarius is clashing with the Sun in Virgo, creating tension between detail-obsessed analysis and the urge to break free. Here's what that means for you right now.",
+    "tags": [
+      "sagittariusmoon",
+      "waxingcrescent",
+      "mooninastrology",
+      "virgoseason",
+      "moonphase",
+      "lunarastrology",
+      "sagittarius",
+      "shorts",
+      "viral",
+      "astrology"
+    ],
+    "script": "You're not restless for no reason. The Moon just entered Sagittarius at barely one degree — and it's pulling hard against the Sun in Virgo. Virgo wants lists, plans, precision. Sagittarius wants out. In astrology, this crescent phase is about momentum — what you're building toward. But with this tension in the sky right now, the question is: are you running toward something, or just away? Which one is it for you?",
+    "visual_keywords": [
+      "full moon night sky",
+      "open road adventure",
+      "stars galaxy",
+      "woman running field",
+      "night landscape"
+    ]
+  },
+  "hashtag_options": [
+    "sagittariusmoon",
+    "waxingcrescent",
+    "mooninastrology",
+    "virgoseason",
+    "moonphase",
+    "lunarastrology",
+    "sagittarius",
+    "shorts",
+    "viral",
+    "astrology"
+  ],
+  "hashtag_message_id": 59,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-09-17T16:54:41.415252+00:00"
 }
