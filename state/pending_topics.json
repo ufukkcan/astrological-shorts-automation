@@ -1,9 +1,9 @@
 {
   "batch_id": "20260916-1829",
   "trigger_date": "2026-09-16",
-  "message_id": 58,
+  "message_id": 61,
   "created_at": "2026-09-16T18:29:06.231316+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Waxing Crescent Moon in Sagittarius — Restless Expansion",
@@ -140,7 +140,7 @@
     "topic": "Waxing Crescent Moon in Sagittarius — Restless Expansion",
     "teaser": "The Moon just moved into Sagittarius — and if you've been feeling a sudden urge to escape everything, that's exactly why.",
     "video_title": "Moon in Sagittarius — Why You Suddenly Want to Run",
-    "video_description": "The Waxing Crescent Moon in Sagittarius is clashing with the Sun in Virgo, creating tension between detail-obsessed analysis and the urge to break free. Here's what that means for you right now.",
+    "video_description": "Waxing Crescent Moon in Sagittarius — Restless Expansion\n\n#sagittariusmoon #waxingcrescent #mooninastrology #virgoseason #moonphase",
     "tags": [
       "sagittariusmoon",
       "waxingcrescent",
@@ -175,6 +175,15 @@
     "astrology"
   ],
   "hashtag_message_id": 59,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-09-17T16:54:41.415252+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-09-17T16:54:41.415252+00:00",
+  "video_file_id": "BAACAgQAAxkDAAM9aq1DMiCFgE6gCjV4unohjsCi7OoAAqIiAAJOv2lR4vyJHJ7kgnM9BA",
+  "review_started_at": "2026-09-18T13:57:06.568741+00:00",
+  "attempts": 1
 }
