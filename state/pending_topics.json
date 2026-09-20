@@ -3,7 +3,7 @@
   "trigger_date": "2026-09-19",
   "message_id": 64,
   "created_at": "2026-09-19T14:43:33.167273+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "First Quarter Moon in Capricorn — Build or Break",
@@ -135,5 +135,46 @@
         "stars night long exposure"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "First Quarter Moon in Capricorn — Build or Break",
+    "teaser": "The Moon is in Capricorn right now — and it's forcing a decision you've been avoiding.",
+    "video_title": "First Quarter Moon in Capricorn — Decide Now",
+    "video_description": "The First Quarter Moon in Capricorn on September 19 creates a push-pull between ambition and emotion. Four planets are still retrograde, making this a critical moment to act — or stall permanently.",
+    "tags": [
+      "firstquartermoon",
+      "moonincapricorn",
+      "capricornmoon",
+      "moonphases",
+      "lunarastrology",
+      "saturnretrograde",
+      "virgoseason",
+      "astrology",
+      "shorts",
+      "viral"
+    ],
+    "script": "Four planets are retrograde right now — and the Moon just moved into Capricorn, demanding you act anyway. This First Quarter Moon is the tension point of the lunar cycle: the moment where intention either becomes structure or collapses into excuses. Capricorn doesn't care about your feelings. It cares about results. With Saturn retrograde in Aries at the same time, the rules you've been following may not even be yours. So what are you actually building — and for who?",
+    "visual_keywords": [
+      "full moon night sky",
+      "mountain peak clouds",
+      "night stars",
+      "crystal ball table",
+      "dark sky moon"
+    ]
+  },
+  "hashtag_options": [
+    "firstquartermoon",
+    "moonincapricorn",
+    "capricornmoon",
+    "moonphases",
+    "lunarastrology",
+    "saturnretrograde",
+    "virgoseason",
+    "astrology",
+    "shorts",
+    "viral"
+  ],
+  "hashtag_message_id": 65,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-09-20T11:52:43.845414+00:00"
 }
