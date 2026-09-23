@@ -3,7 +3,7 @@
   "trigger_date": "2026-09-22",
   "message_id": 70,
   "created_at": "2026-09-22T16:52:10.077909+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Sun at 29° Virgo — Anaretic Degree Before Libra",
@@ -135,5 +135,46 @@
         "night sky stars"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Sun at 29° Virgo — Anaretic Degree Before Libra",
+    "teaser": "The Sun is sitting at the most unstable degree in the zodiac right now — and most people have no idea what that means for them.",
+    "video_title": "Sun at 29° Virgo — The Most Urgent Degree",
+    "video_description": "The Sun is at 29° Virgo — the anaretic degree — a point astrologers call the crisis degree. It's the final breath before a major identity shift into Libra season. Here's what that pressure actually means.",
+    "tags": [
+      "virgoseason",
+      "sunastrology",
+      "anaреticdegree",
+      "29degrees",
+      "libraseasonnear",
+      "solarenergy",
+      "astrologytransit",
+      "shorts",
+      "viral",
+      "astrology"
+    ],
+    "script": "The Sun is at 29° Virgo right now — and in astrology, 29 degrees is called the crisis degree, the point of no return. Every planet at 29° is racing to finish unfinished business before it crosses into a completely different energy. That means this is your last window to audit, fix, and refine before Libra season flips the entire focus from self-improvement to relationships. What have you been avoiding? The Sun won't wait much longer.",
+    "visual_keywords": [
+      "sun rays sky",
+      "golden hour light",
+      "hourglass time",
+      "zodiac wheel",
+      "sunset horizon"
+    ]
+  },
+  "hashtag_options": [
+    "virgoseason",
+    "sunastrology",
+    "anaреticdegree",
+    "29degrees",
+    "libraseasonnear",
+    "solarenergy",
+    "astrologytransit",
+    "shorts",
+    "viral",
+    "astrology"
+  ],
+  "hashtag_message_id": 71,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-09-23T14:58:50.436200+00:00"
 }
