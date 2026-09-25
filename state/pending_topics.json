@@ -1,189 +1,139 @@
 {
-  "batch_id": "20260922-1652",
-  "trigger_date": "2026-09-22",
-  "message_id": 73,
-  "created_at": "2026-09-22T16:52:10.077909+00:00",
-  "status": "done",
+  "batch_id": "20260925-1856",
+  "trigger_date": "2026-09-25",
+  "message_id": 76,
+  "created_at": "2026-09-25T18:56:58.937728+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Sun at 29° Virgo — Anaretic Degree Before Libra",
-      "teaser": "The Sun is sitting at the most unstable degree in the zodiac right now — and most people have no idea what that means for them.",
-      "video_title": "Sun at 29° Virgo — The Most Urgent Degree",
-      "video_description": "The Sun is at 29° Virgo — the anaretic degree — a point astrologers call the crisis degree. It's the final breath before a major identity shift into Libra season. Here's what that pressure actually means.",
+      "topic": "Full Moon in Pisces — Four Planets Retrograde Amplified",
+      "teaser": "Tonight's Full Moon in Pisces is being pulled in four directions at once — and most people won't even notice what's hitting them.",
+      "video_title": "This Full Moon in Pisces Hits Differently Tonight",
+      "video_description": "The Full Moon at 21° Pisces on September 25 lands while Saturn, Uranus, Neptune, and Pluto are all retrograde. Astrologers say this amplifies emotional overwhelm and buried feelings rising to the surface. Find out which signs feel it most.",
       "tags": [
-        "virgoseason",
-        "sunastrology",
-        "anaреticdegree",
-        "29degrees",
-        "libraseasonnear",
-        "solarenergy",
-        "astrologytransit",
+        "fullmooninpisces",
+        "piscesmoon",
+        "fullmoon",
+        "saturnretrograde",
+        "neptuneretrograde",
+        "fourplanetsretrograde",
+        "piscesseason",
+        "astrology",
         "shorts",
-        "viral",
-        "astrology"
+        "viral"
       ],
-      "script": "The Sun is at 29° Virgo right now — and in astrology, 29 degrees is called the crisis degree, the point of no return. Every planet at 29° is racing to finish unfinished business before it crosses into a completely different energy. That means this is your last window to audit, fix, and refine before Libra season flips the entire focus from self-improvement to relationships. What have you been avoiding? The Sun won't wait much longer.",
+      "script": "Four planets are retrograde tonight, and the Full Moon just landed in Pisces — the most emotionally porous sign in the zodiac. In astrology, a Pisces Full Moon already dissolves your defenses. But with Saturn, Uranus, Neptune, and Pluto all moving backward, the pressure isn't coming from outside — it's coming from deep within you. Things you buried weeks ago are surfacing right now. Especially if you're a Pisces, Virgo, Scorpio, or Cancer. What's coming up for you?",
       "visual_keywords": [
-        "sun rays sky",
-        "golden hour light",
-        "hourglass time",
-        "zodiac wheel",
-        "sunset horizon"
+        "full moon night sky",
+        "ocean waves moonlight",
+        "misty water reflection",
+        "galaxy stars",
+        "dreamy purple sky"
       ]
     },
     {
-      "topic": "Waxing Gibbous Moon in Aquarius — Almost Full",
-      "teaser": "The Moon is almost full — and it's sitting in Aquarius, one of the most emotionally detached signs in the zodiac. That tension is not an accident.",
-      "video_title": "Waxing Gibbous Moon in Aquarius — The Pressure Builds",
-      "video_description": "The Moon is in a Waxing Gibbous phase in Aquarius — almost full, building toward peak illumination. Astrologers read this as a moment of mounting pressure where what you've been building demands to be seen. Aquarius adds a cold, detached lens.",
-      "tags": [
-        "mooninaquarius",
-        "waxinggibbous",
-        "aquariusmoon",
-        "moonphases",
-        "fullmoonnear",
-        "lunarenergy",
-        "moonastrology",
-        "shorts",
-        "viral",
-        "astrology"
-      ],
-      "script": "The Moon is almost full right now — and it's in Aquarius, the sign that would rather analyze feelings than feel them. In astrology, the Waxing Gibbous phase is the moment right before peak pressure, when everything you've been building is about to crack open. But with the Moon in Aquarius, the catch is this: you'll intellectualize what you should be releasing. The question isn't what you think about it. It's what you actually feel. Can you tell the difference?",
-      "visual_keywords": [
-        "almost full moon",
-        "night sky moon",
-        "moonlight clouds",
-        "stars night",
-        "moon glow"
-      ]
-    },
-    {
-      "topic": "Mercury in Libra Approaching Retrograde Shadow",
-      "teaser": "Mercury isn't retrograde yet — but it's already creeping toward the zone that will matter most when it goes backward in October.",
-      "video_title": "Mercury in Libra — The Shadow Before the Storm",
-      "video_description": "Mercury is at 19° Libra right now, moving toward its retrograde shadow zone ahead of the October 24 retrograde. Astrologers say the shadow period is when the real disruptions quietly begin — in communication, decisions, and relationships.",
-      "tags": [
-        "mercuryretrograde",
-        "mercuryinlibra",
-        "retrogradepre",
-        "librasign",
-        "mercuryshadow",
-        "communicationastrology",
-        "transitastrology",
-        "shorts",
-        "viral",
-        "astrology"
-      ],
-      "script": "Mercury isn't retrograde yet — but mark your calendar: October 24th, it goes backward in Libra. Right now at 19° Libra, Mercury is already approaching the shadow zone, which means the miscommunications, the hesitation, the second-guessing in your relationships? That's already starting. Astrologers call this the pre-shadow — the quiet warning before the chaos. If a conversation has been sitting unfinished, Libra energy is pushing you to have it now, before Mercury locks everything in reverse.",
-      "visual_keywords": [
-        "planet retrograde space",
-        "communication network",
-        "hourglass countdown",
-        "calendar dates",
-        "night sky planets"
-      ]
-    },
-    {
-      "topic": "The Astrological 1st House — The Mask You Were Born With",
-      "teaser": "Your rising sign gets all the attention — but most people don't realize it's just the beginning of what your 1st house is actually doing.",
-      "video_title": "The 1st House — It's Not Just Your Rising Sign",
-      "video_description": "The 1st house in astrology is the house of self, identity, and first impressions — but it's more than your rising sign. Any planet sitting inside it completely rewrites how you show up in the world. Most people never check what's in there.",
-      "tags": [
-        "firsthouse",
-        "risingSign",
-        "birthchart",
-        "housesofastrology",
-        "ascendant",
-        "natalchart",
-        "selfastrology",
-        "shorts",
-        "viral",
-        "astrology"
-      ],
-      "script": "Your rising sign is not your personality — it's your mask, the first impression your chart hands the world before you even speak. But here's what most people miss: whatever planet sits inside your 1st house completely overrides that mask. A Libra rising with Mars in the 1st house doesn't read as peaceful — they read as driven, intense, maybe even aggressive. The rising sign is the door. The planets inside are who's actually standing there. Have you checked what's inside yours?",
-      "visual_keywords": [
-        "mirror reflection portrait",
-        "ancient mask artifact",
-        "zodiac birth chart",
-        "doorway entrance light",
-        "tarot cards"
-      ]
-    },
-    {
-      "topic": "Saturn Retrograde in Aries Opposite Venus in Scorpio",
-      "teaser": "Two of the most serious planets in astrology are pulling against each other right now — and it's aimed directly at your closest relationships.",
-      "video_title": "Saturn in Aries vs Venus in Scorpio — Relationship Tension",
-      "video_description": "Saturn retrograde at 12° Aries is sitting in opposition to Venus at 6° Scorpio — two signs that couldn't be more different in how they handle love and commitment. In astrology, this tension forces a reckoning between what you want and what's actually sustainable.",
+      "topic": "Saturn Retrograde in Aries Opposite Mars in Cancer",
+      "teaser": "Saturn in Aries and Mars in Cancer are in a standoff right now — and one of them is about to make you crack.",
+      "video_title": "Saturn vs. Mars: The Tension No One's Talking About",
+      "video_description": "Saturn retrograde at 12° Aries sits in opposition to Mars at 28° Cancer, creating a push-pull between discipline and emotional reaction. Astrologers interpret this as a battle between what you're told to do and what you actually feel. Cardinal signs are caught in the middle.",
       "tags": [
         "saturnretrograde",
-        "venusinscorpio",
-        "saturnvenus",
-        "relationshipastrology",
-        "ariesenergy",
-        "scorpioenergy",
-        "planetopposition",
+        "marsincancer",
+        "saturnvsmaars",
+        "cardinalsgns",
+        "ariesastrology",
+        "cancerseason",
+        "retrogradeseason",
+        "astrology",
         "shorts",
-        "viral",
-        "astrology"
+        "zodiac"
       ],
-      "script": "Saturn retrograde is in Aries. Venus is in Scorpio. These two are pulling in opposite directions right now, and astrologers read that as a direct pressure point in relationships. Saturn in Aries demands independence, rules, and hard limits. Venus in Scorpio wants total merger, depth, and no walls. The tension between them forces one question: are the structures in your relationship actually built on what you both want — or just on what you've been afraid to say out loud?",
+      "script": "Saturn retrograde is sitting in Aries right now — demanding discipline, boundaries, rules. Mars is sitting in Cancer — running on raw emotion and instinct. These two are in direct opposition, and in astrology that means internal war. The part of you that wants to hold it together is fighting the part of you that just wants to feel everything. If you're Aries, Cancer, Libra, or Capricorn, this tension is personal. Which side is winning for you right now?",
       "visual_keywords": [
-        "couple silhouette dramatic",
-        "ancient scales balance",
-        "stormy sky dramatic",
-        "two planets space",
-        "night sky stars"
+        "storm clouds dramatic sky",
+        "crashing waves rocks",
+        "two forces collision",
+        "lightning sky",
+        "dark moody landscape"
+      ]
+    },
+    {
+      "topic": "Venus in Scorpio Trine Mars in Cancer — Water Trine",
+      "teaser": "Venus in Scorpio and Mars in Cancer are forming one of the most emotionally magnetic combinations in astrology right now.",
+      "video_title": "Venus and Mars in Water Signs — Rare Emotional Pull",
+      "video_description": "Venus at 7° Scorpio and Mars at 28° Cancer are both in water signs, forming a trine that astrologers associate with deep emotional attraction and intuitive connection. This aspect intensifies desire and vulnerability simultaneously. Water signs feel this most acutely.",
+      "tags": [
+        "venusinscorpio",
+        "marsincancer",
+        "watertrine",
+        "scorpioseason",
+        "venusandmars",
+        "emotionalastrology",
+        "loveastrology",
+        "astrology",
+        "shorts",
+        "viral"
+      ],
+      "script": "Venus is in Scorpio and Mars is in Cancer — both water signs, both emotionally driven, and right now they're in a trine. In astrology, this is the combination that makes feelings impossible to ignore. It's not loud or dramatic. It's the kind of pull you feel before you understand it. Desire becomes deeply personal. Vulnerability stops feeling like weakness. If you've been avoiding something — or someone — this energy won't let you much longer. Water signs especially know exactly what I mean.",
+      "visual_keywords": [
+        "couple silhouette sunset",
+        "deep ocean underwater",
+        "candlelight reflection water",
+        "rain window night",
+        "dark rose petals water"
+      ]
+    },
+    {
+      "topic": "Mercury Retrograde Shadow Period — Starts in 29 Days",
+      "teaser": "Mercury isn't retrograde yet — but the shadow period is closer than you think, and it changes how you should be communicating right now.",
+      "video_title": "Mercury Retrograde Shadow Starts Soon — Here's What to Do",
+      "video_description": "Mercury goes retrograde on October 24, 2026, meaning the pre-shadow phase begins soon. Astrologers suggest this is the window to finish conversations, sign documents, and clarify plans before communication starts to blur. Mercury is currently in Libra at 23°.",
+      "tags": [
+        "mercuryretrograde",
+        "mercuryshadow",
+        "mercuryinlibra",
+        "retrogradeprep",
+        "libraseason",
+        "mercuryretro2026",
+        "communicationastrology",
+        "astrology",
+        "shorts",
+        "zodiac"
+      ],
+      "script": "Mercury is not retrograde right now — but mark October 24th in your calendar, because that's when it flips. And the shadow period starts before that. Mercury is currently moving through Libra at 23 degrees, which in astrology is the zone of negotiation and diplomacy. This is your window — finish the difficult conversations, review anything you're about to sign, and say the things you've been sitting on. Because once the retrograde hits, the wires start crossing. You've been warned.",
+      "visual_keywords": [
+        "calendar close up",
+        "writing pen paper",
+        "communication technology blur",
+        "clock time concept",
+        "night sky mercury planet"
+      ]
+    },
+    {
+      "topic": "The Astrological 12th House — Pisces, Neptune, and What You Hide",
+      "teaser": "The 12th house is the one part of your birth chart most astrologers say people are genuinely afraid to look at.",
+      "video_title": "The 12th House: The Part of Your Chart You're Hiding From",
+      "video_description": "The 12th house in astrology is associated with the unconscious, hidden enemies, isolation, and self-undoing. Ruled by Neptune and connected to Pisces, it represents what we conceal — even from ourselves. With a Full Moon in Pisces tonight, this energy is especially activated.",
+      "tags": [
+        "12thhouse",
+        "birthchart",
+        "natalchart",
+        "12thhouseastrology",
+        "neptuneastrology",
+        "piscessun",
+        "hiddenchart",
+        "astrology",
+        "shorts",
+        "viral"
+      ],
+      "script": "The 12th house in your birth chart has exactly one job — to hide things from you. It's the house of the unconscious, of secrets, of patterns you repeat without knowing why. Traditional astrologers called it the house of self-undoing. Neptune rules it. Pisces rules it. And with tonight's Full Moon sitting in Pisces, whatever your 12th house has been holding for you is a lot harder to ignore right now. Pull up your chart. Look at what's in there. Most people are genuinely surprised.",
+      "visual_keywords": [
+        "hidden door dark corridor",
+        "mirror reflection shadow",
+        "ancient library books",
+        "fog misty forest",
+        "person silhouette darkness"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Sun at 29° Virgo — Anaretic Degree Before Libra",
-    "teaser": "The Sun is sitting at the most unstable degree in the zodiac right now — and most people have no idea what that means for them.",
-    "video_title": "Sun at 29° Virgo — The Most Urgent Degree",
-    "video_description": "Sun at 29° Virgo — Anaretic Degree Before Libra\n\n#virgoseason #sunastrology #anaреticdegree #29degrees #libraseasonnear",
-    "tags": [
-      "virgoseason",
-      "sunastrology",
-      "anaреticdegree",
-      "29degrees",
-      "libraseasonnear",
-      "solarenergy",
-      "astrologytransit",
-      "shorts",
-      "viral",
-      "astrology"
-    ],
-    "script": "The Sun is at 29° Virgo right now — and in astrology, 29 degrees is called the crisis degree, the point of no return. Every planet at 29° is racing to finish unfinished business before it crosses into a completely different energy. That means this is your last window to audit, fix, and refine before Libra season flips the entire focus from self-improvement to relationships. What have you been avoiding? The Sun won't wait much longer.",
-    "visual_keywords": [
-      "sun rays sky",
-      "golden hour light",
-      "hourglass time",
-      "zodiac wheel",
-      "sunset horizon"
-    ]
-  },
-  "hashtag_options": [
-    "virgoseason",
-    "sunastrology",
-    "anaреticdegree",
-    "29degrees",
-    "libraseasonnear",
-    "solarenergy",
-    "astrologytransit",
-    "shorts",
-    "viral",
-    "astrology"
-  ],
-  "hashtag_message_id": 71,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-09-23T14:58:50.436200+00:00",
-  "video_file_id": "BAACAgQAAxkDAANJarUyobqZhUtipolTxJWFbAdNeA8AArUdAAI4K6hRyfgMbtxqCSQ9BA",
-  "review_started_at": "2026-09-24T14:24:33.797309+00:00",
-  "attempts": 1
+  ]
 }
