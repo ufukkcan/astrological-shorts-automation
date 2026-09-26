@@ -3,7 +3,7 @@
   "trigger_date": "2026-09-25",
   "message_id": 76,
   "created_at": "2026-09-25T18:56:58.937728+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Full Moon in Pisces — Four Planets Retrograde Amplified",
@@ -135,5 +135,46 @@
         "person silhouette darkness"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Full Moon in Pisces — Four Planets Retrograde Amplified",
+    "teaser": "Tonight's Full Moon in Pisces is being pulled in four directions at once — and most people won't even notice what's hitting them.",
+    "video_title": "This Full Moon in Pisces Hits Differently Tonight",
+    "video_description": "The Full Moon at 21° Pisces on September 25 lands while Saturn, Uranus, Neptune, and Pluto are all retrograde. Astrologers say this amplifies emotional overwhelm and buried feelings rising to the surface. Find out which signs feel it most.",
+    "tags": [
+      "fullmooninpisces",
+      "piscesmoon",
+      "fullmoon",
+      "saturnretrograde",
+      "neptuneretrograde",
+      "fourplanetsretrograde",
+      "piscesseason",
+      "astrology",
+      "shorts",
+      "viral"
+    ],
+    "script": "Four planets are retrograde tonight, and the Full Moon just landed in Pisces — the most emotionally porous sign in the zodiac. In astrology, a Pisces Full Moon already dissolves your defenses. But with Saturn, Uranus, Neptune, and Pluto all moving backward, the pressure isn't coming from outside — it's coming from deep within you. Things you buried weeks ago are surfacing right now. Especially if you're a Pisces, Virgo, Scorpio, or Cancer. What's coming up for you?",
+    "visual_keywords": [
+      "full moon night sky",
+      "ocean waves moonlight",
+      "misty water reflection",
+      "galaxy stars",
+      "dreamy purple sky"
+    ]
+  },
+  "hashtag_options": [
+    "fullmooninpisces",
+    "piscesmoon",
+    "fullmoon",
+    "saturnretrograde",
+    "neptuneretrograde",
+    "fourplanetsretrograde",
+    "piscesseason",
+    "astrology",
+    "shorts",
+    "viral"
+  ],
+  "hashtag_message_id": 77,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-09-26T17:30:22.412536+00:00"
 }
