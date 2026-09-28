@@ -1,189 +1,139 @@
 {
-  "batch_id": "20260925-1856",
-  "trigger_date": "2026-09-25",
-  "message_id": 79,
-  "created_at": "2026-09-25T18:56:58.937728+00:00",
-  "status": "done",
+  "batch_id": "20260928-2015",
+  "trigger_date": "2026-09-28",
+  "message_id": 82,
+  "created_at": "2026-09-28T20:15:20.438147+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Full Moon in Pisces — Four Planets Retrograde Amplified",
-      "teaser": "Tonight's Full Moon in Pisces is being pulled in four directions at once — and most people won't even notice what's hitting them.",
-      "video_title": "This Full Moon in Pisces Hits Differently Tonight",
-      "video_description": "The Full Moon at 21° Pisces on September 25 lands while Saturn, Uranus, Neptune, and Pluto are all retrograde. Astrologers say this amplifies emotional overwhelm and buried feelings rising to the surface. Find out which signs feel it most.",
+      "topic": "Sun in Libra + Mercury in Libra — Double Libra Energy",
+      "teaser": "Two major planets are stacked in the same sign right now — and it's quietly reshaping every conversation you're having.",
+      "video_title": "Sun & Mercury Both in Libra — What's Really Happening",
+      "video_description": "The Sun sits at 5.7° Libra while Mercury is all the way at 27.8° Libra — they're in the same sign but miles apart in energy. This creates a rare tension between who you are and how you communicate. Here's what that split means for you.",
       "tags": [
-        "fullmooninpisces",
-        "piscesmoon",
-        "fullmoon",
-        "saturnretrograde",
-        "neptuneretrograde",
-        "fourplanetsretrograde",
-        "piscesseason",
+        "sunlibra",
+        "mercurylibra",
+        "libraseason",
+        "libraenergy",
+        "mercuryastrology",
+        "airseason",
         "astrology",
+        "zodiac",
         "shorts",
         "viral"
       ],
-      "script": "Four planets are retrograde tonight, and the Full Moon just landed in Pisces — the most emotionally porous sign in the zodiac. In astrology, a Pisces Full Moon already dissolves your defenses. But with Saturn, Uranus, Neptune, and Pluto all moving backward, the pressure isn't coming from outside — it's coming from deep within you. Things you buried weeks ago are surfacing right now. Especially if you're a Pisces, Virgo, Scorpio, or Cancer. What's coming up for you?",
+      "script": "Two planets in the same sign doesn't mean the same energy — it means a conversation with itself. Right now the Sun is at 5° Libra and Mercury is almost at 28°, nearly out the door. Astrologers read this as your identity still settling into Libra themes — balance, fairness, connection — while your mind is already racing ahead. You're thinking faster than you're feeling. Which one is actually leading you right now?",
       "visual_keywords": [
-        "full moon night sky",
-        "ocean waves moonlight",
-        "misty water reflection",
-        "galaxy stars",
-        "dreamy purple sky"
+        "scales balance",
+        "night sky stars",
+        "planets space",
+        "zodiac wheel",
+        "constellation"
       ]
     },
     {
-      "topic": "Saturn Retrograde in Aries Opposite Mars in Cancer",
-      "teaser": "Saturn in Aries and Mars in Cancer are in a standoff right now — and one of them is about to make you crack.",
-      "video_title": "Saturn vs. Mars: The Tension No One's Talking About",
-      "video_description": "Saturn retrograde at 12° Aries sits in opposition to Mars at 28° Cancer, creating a push-pull between discipline and emotional reaction. Astrologers interpret this as a battle between what you're told to do and what you actually feel. Cardinal signs are caught in the middle.",
+      "topic": "Mars into Leo — Cardinal Fire Meets Fixed Fire",
+      "teaser": "Mars just entered a new sign — and depending on your chart, this shift either charges you up or completely burns you out.",
+      "video_title": "Mars at 0° Leo — The Energy Just Flipped",
+      "video_description": "Mars moved into Leo and sits at just 0.4° — brand new in this sign. In astrology, a planet at 0° is raw, unfiltered, and unpredictable. Leo Mars wants recognition, action, and drama. Here's who feels it most.",
       "tags": [
-        "saturnretrograde",
-        "marsincancer",
-        "saturnvsmaars",
-        "cardinalsgns",
-        "ariesastrology",
-        "cancerseason",
-        "retrogradeseason",
+        "marsleo",
+        "marsastrology",
+        "leoseason",
+        "leoenergy",
+        "marsplacement",
+        "firesigns",
         "astrology",
+        "zodiac",
         "shorts",
-        "zodiac"
+        "viral"
       ],
-      "script": "Saturn retrograde is sitting in Aries right now — demanding discipline, boundaries, rules. Mars is sitting in Cancer — running on raw emotion and instinct. These two are in direct opposition, and in astrology that means internal war. The part of you that wants to hold it together is fighting the part of you that just wants to feel everything. If you're Aries, Cancer, Libra, or Capricorn, this tension is personal. Which side is winning for you right now?",
+      "script": "Mars just stepped into Leo — and at 0° it hasn't learned to control itself yet. In astrology, a planet at zero degrees is pure impulse. Leo Mars wants to be seen, wants to lead, wants the spotlight — and right now that energy is completely unfiltered. Fire signs feel this like rocket fuel. Water signs feel it like an uncomfortable pressure to perform. The question is: are you ready to be witnessed, or are you still hiding?",
       "visual_keywords": [
-        "storm clouds dramatic sky",
-        "crashing waves rocks",
-        "two forces collision",
-        "lightning sky",
-        "dark moody landscape"
+        "fire flames",
+        "lion wildlife",
+        "sunset dramatic sky",
+        "galaxy space",
+        "night sky stars"
       ]
     },
     {
-      "topic": "Venus in Scorpio Trine Mars in Cancer — Water Trine",
-      "teaser": "Venus in Scorpio and Mars in Cancer are forming one of the most emotionally magnetic combinations in astrology right now.",
-      "video_title": "Venus and Mars in Water Signs — Rare Emotional Pull",
-      "video_description": "Venus at 7° Scorpio and Mars at 28° Cancer are both in water signs, forming a trine that astrologers associate with deep emotional attraction and intuitive connection. This aspect intensifies desire and vulnerability simultaneously. Water signs feel this most acutely.",
+      "topic": "Waning Gibbous Moon in Taurus Opposite Sun in Libra",
+      "teaser": "The Moon and the Sun are in a quiet tug-of-war right now — and it's showing up in your body before your mind even notices.",
+      "video_title": "Moon in Taurus vs. Sun in Libra — Inner Conflict",
+      "video_description": "A Waning Gibbous Moon in Taurus sits opposite the Libra Sun — earth energy pulling toward comfort and stillness while Libra pushes for social balance and connection. Astrologers often read this opposition as a tension between what you need and what others need from you.",
       "tags": [
-        "venusinscorpio",
-        "marsincancer",
-        "watertrine",
-        "scorpioseason",
-        "venusandmars",
-        "emotionalastrology",
+        "taurusmoon",
+        "waningmoon",
+        "moonastrology",
+        "librasun",
+        "moonphase",
+        "fullmoonvibes",
+        "astrology",
+        "zodiac",
+        "shorts",
+        "viral"
+      ],
+      "script": "Your body is telling you one thing and your relationships are demanding another — and that's not random. The Waning Gibbous Moon is in Taurus right now, pulling you toward rest, comfort, stillness. But the Sun in Libra is pushing for connection, compromise, showing up for others. Astrologers call this an opposition — two energies at maximum tension. The release phase of the moon says let go. But let go of what, exactly? That's the real question this week.",
+      "visual_keywords": [
+        "full moon night",
+        "calm ocean",
+        "moonrise landscape",
+        "stars night sky",
+        "woman meditating"
+      ]
+    },
+    {
+      "topic": "Anaretic Degree — The 29th Degree Explained",
+      "teaser": "There's one degree in astrology that almost nobody talks about — and if a planet hits it in your chart, everything speeds up fast.",
+      "video_title": "The 29th Degree — Astrology's Most Intense Point",
+      "video_description": "The anaretic degree — 29° of any sign — is considered a critical pressure point in astrology. Planets there are said to carry the full unresolved tension of that sign before moving on. It appears in birth charts, transits, and progressions, and astrologers consistently flag it as a point of urgency.",
+      "tags": [
+        "anaреticdegree",
+        "29degrees",
+        "birthchart",
+        "chartreading",
+        "astrologytips",
+        "planetdegrees",
+        "astrology",
+        "zodiac",
+        "shorts",
+        "viral"
+      ],
+      "script": "The 29th degree of any sign is called the anaretic degree — and in astrology it's treated like a deadline. A planet here has exhausted everything that sign has to offer and hasn't made the transition yet. Astrologers describe it as maximum pressure, urgency, unfinished business demanding resolution. If you have a planet at 29° in your birth chart, that energy doesn't sit still. It either forces a decision or creates a crisis. Which planet is yours sitting on the edge?",
+      "visual_keywords": [
+        "ancient temple ruins",
+        "hourglass time",
+        "night sky stars",
+        "zodiac wheel",
+        "tarot cards"
+      ]
+    },
+    {
+      "topic": "Venus in Scorpio Trine Saturn Retrograde in Aries — Rare Aspect",
+      "teaser": "Venus and Saturn are forming a rare angle right now — and astrologers say this is the one transit that actually makes love feel real instead of just exciting.",
+      "video_title": "Venus Trine Saturn — When Love Gets Serious",
+      "video_description": "Venus at 8.1° Scorpio forms a trine with Saturn retrograde at 11.7° Aries — a fire-water trine that astrologers associate with emotional depth meeting structural commitment. Saturn retrograde adds an internal dimension: this isn't about new relationships forming, it's about evaluating the ones already in place.",
+      "tags": [
+        "venusscorpio",
+        "saturnretrograde",
+        "venusSaturn",
         "loveastrology",
+        "scorpioenergy",
+        "ariessaturn",
         "astrology",
+        "zodiac",
         "shorts",
         "viral"
       ],
-      "script": "Venus is in Scorpio and Mars is in Cancer — both water signs, both emotionally driven, and right now they're in a trine. In astrology, this is the combination that makes feelings impossible to ignore. It's not loud or dramatic. It's the kind of pull you feel before you understand it. Desire becomes deeply personal. Vulnerability stops feeling like weakness. If you've been avoiding something — or someone — this energy won't let you much longer. Water signs especially know exactly what I mean.",
+      "script": "Venus in Scorpio and Saturn retrograde in Aries are forming a trine right now — and this is the aspect astrologers say separates real connection from surface-level attraction. Scorpio Venus wants intensity, loyalty, depth. Saturn retrograde asks: is this actually built to last, or are you just addicted to the feeling? Trines are considered flowing aspects, so this isn't a crisis — it's a quiet moment of clarity. Whatever relationship is on your mind right now? This week gives you the answer.",
       "visual_keywords": [
         "couple silhouette sunset",
-        "deep ocean underwater",
-        "candlelight reflection water",
-        "rain window night",
-        "dark rose petals water"
-      ]
-    },
-    {
-      "topic": "Mercury Retrograde Shadow Period — Starts in 29 Days",
-      "teaser": "Mercury isn't retrograde yet — but the shadow period is closer than you think, and it changes how you should be communicating right now.",
-      "video_title": "Mercury Retrograde Shadow Starts Soon — Here's What to Do",
-      "video_description": "Mercury goes retrograde on October 24, 2026, meaning the pre-shadow phase begins soon. Astrologers suggest this is the window to finish conversations, sign documents, and clarify plans before communication starts to blur. Mercury is currently in Libra at 23°.",
-      "tags": [
-        "mercuryretrograde",
-        "mercuryshadow",
-        "mercuryinlibra",
-        "retrogradeprep",
-        "libraseason",
-        "mercuryretro2026",
-        "communicationastrology",
-        "astrology",
-        "shorts",
-        "zodiac"
-      ],
-      "script": "Mercury is not retrograde right now — but mark October 24th in your calendar, because that's when it flips. And the shadow period starts before that. Mercury is currently moving through Libra at 23 degrees, which in astrology is the zone of negotiation and diplomacy. This is your window — finish the difficult conversations, review anything you're about to sign, and say the things you've been sitting on. Because once the retrograde hits, the wires start crossing. You've been warned.",
-      "visual_keywords": [
-        "calendar close up",
-        "writing pen paper",
-        "communication technology blur",
-        "clock time concept",
-        "night sky mercury planet"
-      ]
-    },
-    {
-      "topic": "The Astrological 12th House — Pisces, Neptune, and What You Hide",
-      "teaser": "The 12th house is the one part of your birth chart most astrologers say people are genuinely afraid to look at.",
-      "video_title": "The 12th House: The Part of Your Chart You're Hiding From",
-      "video_description": "The 12th house in astrology is associated with the unconscious, hidden enemies, isolation, and self-undoing. Ruled by Neptune and connected to Pisces, it represents what we conceal — even from ourselves. With a Full Moon in Pisces tonight, this energy is especially activated.",
-      "tags": [
-        "12thhouse",
-        "birthchart",
-        "natalchart",
-        "12thhouseastrology",
-        "neptuneastrology",
-        "piscessun",
-        "hiddenchart",
-        "astrology",
-        "shorts",
-        "viral"
-      ],
-      "script": "The 12th house in your birth chart has exactly one job — to hide things from you. It's the house of the unconscious, of secrets, of patterns you repeat without knowing why. Traditional astrologers called it the house of self-undoing. Neptune rules it. Pisces rules it. And with tonight's Full Moon sitting in Pisces, whatever your 12th house has been holding for you is a lot harder to ignore right now. Pull up your chart. Look at what's in there. Most people are genuinely surprised.",
-      "visual_keywords": [
-        "hidden door dark corridor",
-        "mirror reflection shadow",
-        "ancient library books",
-        "fog misty forest",
-        "person silhouette darkness"
+        "crystal ball",
+        "planets space",
+        "candlelight close up",
+        "night sky stars"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Full Moon in Pisces — Four Planets Retrograde Amplified",
-    "teaser": "Tonight's Full Moon in Pisces is being pulled in four directions at once — and most people won't even notice what's hitting them.",
-    "video_title": "This Full Moon in Pisces Hits Differently Tonight",
-    "video_description": "Full Moon in Pisces — Four Planets Retrograde Amplified\n\n#fullmooninpisces #piscesmoon #fullmoon #saturnretrograde #neptuneretrograde",
-    "tags": [
-      "fullmooninpisces",
-      "piscesmoon",
-      "fullmoon",
-      "saturnretrograde",
-      "neptuneretrograde",
-      "fourplanetsretrograde",
-      "piscesseason",
-      "astrology",
-      "shorts",
-      "viral"
-    ],
-    "script": "Four planets are retrograde tonight, and the Full Moon just landed in Pisces — the most emotionally porous sign in the zodiac. In astrology, a Pisces Full Moon already dissolves your defenses. But with Saturn, Uranus, Neptune, and Pluto all moving backward, the pressure isn't coming from outside — it's coming from deep within you. Things you buried weeks ago are surfacing right now. Especially if you're a Pisces, Virgo, Scorpio, or Cancer. What's coming up for you?",
-    "visual_keywords": [
-      "full moon night sky",
-      "ocean waves moonlight",
-      "misty water reflection",
-      "galaxy stars",
-      "dreamy purple sky"
-    ]
-  },
-  "hashtag_options": [
-    "fullmooninpisces",
-    "piscesmoon",
-    "fullmoon",
-    "saturnretrograde",
-    "neptuneretrograde",
-    "fourplanetsretrograde",
-    "piscesseason",
-    "astrology",
-    "shorts",
-    "viral"
-  ],
-  "hashtag_message_id": 77,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-09-26T17:30:22.412536+00:00",
-  "video_file_id": "BAACAgQAAxkDAANPark52_277VVV2mHHYYu8fBSQ26QAAu4fAAK9nNBR3cKPfau6cDo9BA",
-  "review_started_at": "2026-09-27T15:44:27.483964+00:00",
-  "attempts": 1
+  ]
 }
