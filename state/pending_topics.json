@@ -1,9 +1,9 @@
 {
   "batch_id": "20260928-2015",
   "trigger_date": "2026-09-28",
-  "message_id": 82,
+  "message_id": 85,
   "created_at": "2026-09-28T20:15:20.438147+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Sun in Libra + Mercury in Libra — Double Libra Energy",
@@ -140,7 +140,7 @@
     "topic": "Sun in Libra + Mercury in Libra — Double Libra Energy",
     "teaser": "Two major planets are stacked in the same sign right now — and it's quietly reshaping every conversation you're having.",
     "video_title": "Sun & Mercury Both in Libra — What's Really Happening",
-    "video_description": "The Sun sits at 5.7° Libra while Mercury is all the way at 27.8° Libra — they're in the same sign but miles apart in energy. This creates a rare tension between who you are and how you communicate. Here's what that split means for you.",
+    "video_description": "Sun in Libra + Mercury in Libra — Double Libra Energy\n\n#sunlibra #mercurylibra #libraseason #libraenergy #mercuryastrology",
     "tags": [
       "sunlibra",
       "mercurylibra",
@@ -175,6 +175,15 @@
     "viral"
   ],
   "hashtag_message_id": 83,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-09-29T17:03:51.719160+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-09-29T17:03:51.719160+00:00",
+  "video_file_id": "BAACAgQAAxkDAANVar1Ajy3r7eW1FZi13UARmfA_aFIAAisiAAJH0elR4ESUO4-2dBQ9BA",
+  "review_started_at": "2026-09-30T17:02:07.649887+00:00",
+  "attempts": 1
 }
