@@ -3,7 +3,7 @@
   "trigger_date": "2026-10-01",
   "message_id": 88,
   "created_at": "2026-10-01T19:20:44.843653+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Moon in Gemini Waning Gibbous — Information Overload",
@@ -135,5 +135,46 @@
         "night sky stars"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Moon in Gemini Waning Gibbous — Information Overload",
+    "teaser": "The Moon is in Gemini right now — and it's pulling your mind in six directions at once. Which one do you follow?",
+    "video_title": "Gemini Moon Is Making Everyone Overthink Right Now",
+    "video_description": "The Waning Gibbous Moon in Gemini on October 1st is flooding your mind with information, options, and conflicting thoughts. Here's what astrology says about navigating it.",
+    "tags": [
+      "geminiмoon",
+      "geminimoon",
+      "waxinggibbous",
+      "moonastrology",
+      "libraseason",
+      "lunarenergy",
+      "moonphases",
+      "shorts",
+      "viral",
+      "astrology"
+    ],
+    "script": "Your brain hasn't stopped running in three days — and there's a reason for that. The Moon is in Gemini right now, Waning Gibbous phase, and in astrology this placement floods your nervous system with input, options, and half-finished thoughts. Gemini moons are traditionally linked to communication overload — the mind absorbs everything but struggles to settle. The waning phase adds a release pressure. Astrologers say this is less about deciding and more about letting the noise die down first. Which sign are you?",
+    "visual_keywords": [
+      "night sky stars",
+      "full moon clouds",
+      "galaxy space",
+      "woman thinking",
+      "constellation"
+    ]
+  },
+  "hashtag_options": [
+    "geminiмoon",
+    "geminimoon",
+    "waxinggibbous",
+    "moonastrology",
+    "libraseason",
+    "lunarenergy",
+    "moonphases",
+    "shorts",
+    "viral",
+    "astrology"
+  ],
+  "hashtag_message_id": 89,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-10-02T19:42:50.654684+00:00"
 }
