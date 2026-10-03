@@ -1,9 +1,9 @@
 {
   "batch_id": "20261001-1920",
   "trigger_date": "2026-10-01",
-  "message_id": 88,
+  "message_id": 91,
   "created_at": "2026-10-01T19:20:44.843653+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Moon in Gemini Waning Gibbous — Information Overload",
@@ -140,7 +140,7 @@
     "topic": "Moon in Gemini Waning Gibbous — Information Overload",
     "teaser": "The Moon is in Gemini right now — and it's pulling your mind in six directions at once. Which one do you follow?",
     "video_title": "Gemini Moon Is Making Everyone Overthink Right Now",
-    "video_description": "The Waning Gibbous Moon in Gemini on October 1st is flooding your mind with information, options, and conflicting thoughts. Here's what astrology says about navigating it.",
+    "video_description": "Moon in Gemini Waning Gibbous — Information Overload\n\n#geminiмoon #geminimoon #waxinggibbous #moonastrology #libraseason",
     "tags": [
       "geminiмoon",
       "geminimoon",
@@ -175,6 +175,15 @@
     "astrology"
   ],
   "hashtag_message_id": 89,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-10-02T19:42:50.654684+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-10-02T19:42:50.654684+00:00",
+  "video_file_id": "BAACAgQAAxkDAANbasE4e03x4hVDvqzwc5G-2YEvgtAAAlMgAAKtwQlSLY7VercIodk9BA",
+  "review_started_at": "2026-10-03T17:16:43.738153+00:00",
+  "attempts": 1
 }
