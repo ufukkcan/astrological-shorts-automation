@@ -3,7 +3,7 @@
   "trigger_date": "2026-10-04",
   "message_id": 94,
   "created_at": "2026-10-04T17:42:58.142261+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Last Quarter Moon in Cancer — Five Planets Retrograde",
@@ -145,5 +145,48 @@
         "constellation star map"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Last Quarter Moon in Cancer — Five Planets Retrograde",
+    "teaser": "The Moon is in Cancer right now — and with five planets retrograde at once, this isn't just emotional. It's a reckoning.",
+    "video_title": "Last Quarter Moon in Cancer — 5 Planets Retrograde",
+    "video_description": "The Last Quarter Moon in Cancer on October 4 lands in the middle of a five-planet retrograde storm. Emotional release isn't optional right now — it's the whole assignment.",
+    "tags": [
+      "lastquartermoon",
+      "moonincancer",
+      "cancermoon",
+      "fiveplanetsretrograde",
+      "venusretrograde",
+      "saturnretrograde",
+      "moonphases",
+      "astrology2026",
+      "shorts",
+      "viral",
+      "astrology",
+      "zodiac"
+    ],
+    "script": "Five planets are retrograde right now — and the Moon just moved into Cancer, the most emotionally raw sign in the zodiac. This Last Quarter Moon is forcing a release. Not a gentle one. Saturn retrograde in Aries is making you question authority. Venus retrograde in Scorpio is pulling old desires back to the surface. And the Cancer Moon is making sure you actually feel all of it. So what's breaking down for you right now?",
+    "visual_keywords": [
+      "full moon night sky",
+      "ocean waves night",
+      "crescent moon clouds",
+      "stars reflection water",
+      "night sky stars"
+    ]
+  },
+  "hashtag_options": [
+    "lastquartermoon",
+    "moonincancer",
+    "cancermoon",
+    "fiveplanetsretrograde",
+    "venusretrograde",
+    "saturnretrograde",
+    "moonphases",
+    "astrology2026",
+    "shorts",
+    "viral"
+  ],
+  "hashtag_message_id": 95,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-10-05T18:27:24.440423+00:00"
 }
