@@ -3,7 +3,7 @@
   "trigger_date": "2026-10-07",
   "message_id": 100,
   "created_at": "2026-10-07T20:55:17.978787+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Five Planets Retrograde — Venus Retrograde in Scorpio Spotlight",
@@ -135,5 +135,46 @@
         "bold dramatic sky"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Five Planets Retrograde — Venus Retrograde in Scorpio Spotlight",
+    "teaser": "Five planets are retrograde right now — but one of them is doing something to your relationships that you won't see coming.",
+    "video_title": "5 Planets Retrograde — One Changes Everything",
+    "video_description": "Venus is retrograde in Scorpio right now, and with four other planets also moving backward, October 2026 is one of the most internally charged periods of the year. Astrologers say this is a time of deep reckoning, not outward progress.",
+    "tags": [
+      "venusretrograde",
+      "venusinscorpio",
+      "fiveplanetsretrograde",
+      "scorpioseason",
+      "retrograde2026",
+      "planetaryretrograde",
+      "astrology2026",
+      "shorts",
+      "viral",
+      "astrology"
+    ],
+    "script": "Five planets are retrograde right now — and most people have no idea. Venus, Saturn, Uranus, Neptune, Pluto — all moving backward. But Venus retrograde in Scorpio is the one astrologers say hits the hardest. In traditional astrology, Venus rules love, money, and self-worth. In Scorpio, it digs into what you've buried. Old relationships resurface. Hidden desires get louder. This isn't chaos — it's a reckoning. What are you pretending you're over?",
+    "visual_keywords": [
+      "planets space",
+      "night sky stars",
+      "galaxy space",
+      "constellation",
+      "dark cosmic background"
+    ]
+  },
+  "hashtag_options": [
+    "venusretrograde",
+    "venusinscorpio",
+    "fiveplanetsretrograde",
+    "scorpioseason",
+    "retrograde2026",
+    "planetaryretrograde",
+    "astrology2026",
+    "shorts",
+    "viral",
+    "astrology"
+  ],
+  "hashtag_message_id": 101,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-10-08T19:32:24.287264+00:00"
 }
