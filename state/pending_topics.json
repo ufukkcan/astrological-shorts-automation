@@ -3,7 +3,7 @@
   "trigger_date": "2026-10-10",
   "message_id": 106,
   "created_at": "2026-10-10T18:03:16.475641+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "New Moon in Libra — Solar Conjunction, Five Planets Retrograde",
@@ -135,5 +135,46 @@
         "carnival lights night"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "New Moon in Libra — Solar Conjunction, Five Planets Retrograde",
+    "teaser": "The sun and moon are sitting in the exact same degree right now — and five planets are retrograde at the same time. What does that actually mean for you?",
+    "video_title": "New Moon in Libra — 5 Planets Retrograde at Once",
+    "video_description": "Today's New Moon in Libra sits at 18° while the Sun is at 17.5° — an almost perfect conjunction. With five planets retrograde simultaneously, this reset carries unusual weight. A rare moment to turn inward while the sky pauses.",
+    "tags": [
+      "newmoon",
+      "libranewmoon",
+      "libraseason",
+      "planetsretrograde",
+      "moonphase",
+      "newmoonritual",
+      "astrology2026",
+      "shorts",
+      "viral",
+      "astrology"
+    ],
+    "script": "Five planets are retrograde right now — and today the Sun and Moon are sitting in the same degree of Libra at the same time. In astrology, a New Moon is already a reset, a blank page. But when Venus, Saturn, Uranus, Neptune, and Pluto are all moving backward while that reset happens? Astrologers call this a moment of compressed reckoning. The universe isn't just asking you to start over — it's asking you what you're even starting over for. Which sign are you?",
+    "visual_keywords": [
+      "new moon night sky",
+      "crescent moon dark",
+      "stars galaxy",
+      "night sky reflection",
+      "dark sky planets"
+    ]
+  },
+  "hashtag_options": [
+    "newmoon",
+    "libranewmoon",
+    "libraseason",
+    "planetsretrograde",
+    "moonphase",
+    "newmoonritual",
+    "astrology2026",
+    "shorts",
+    "viral",
+    "astrology"
+  ],
+  "hashtag_message_id": 107,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-10-11T17:47:53.819957+00:00"
 }
