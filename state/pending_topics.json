@@ -3,7 +3,7 @@
   "trigger_date": "2026-10-13",
   "message_id": 110,
   "created_at": "2026-10-13T17:46:46.981019+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Mercury Retrograde Shadow — 11 Days Warning",
@@ -135,5 +135,46 @@
         "candlelight dark room"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Mercury Retrograde Shadow — 11 Days Warning",
+    "teaser": "Mercury isn't retrograde yet — but something is already going wrong with your words.",
+    "video_title": "Mercury Turns Retrograde in 11 Days — Prepare Now",
+    "video_description": "Mercury stations retrograde on October 24th in Scorpio, and the shadow effects are already building. Here's what to watch before it officially flips.",
+    "tags": [
+      "mercuryretrograde",
+      "mercuryinscorpio",
+      "retrogradeseason",
+      "scorpioseason",
+      "mercuryshadow",
+      "planetaryretrograde",
+      "astrology2026",
+      "shorts",
+      "viral",
+      "astrology"
+    ],
+    "script": "Mercury hasn't flipped retrograde yet — but you're already feeling it. In eleven days, on October 24th, Mercury stations retrograde in Scorpio, and the shadow is active right now. Conversations are getting murky. Texts are being misread. Things left unsaid are starting to press against the surface. Scorpio doesn't do small talk — it goes deep, and a retrograde here digs up what you buried. Back up your files, slow down before you reply, and don't sign anything you haven't read twice. Which area of your life feels the tension already?",
+    "visual_keywords": [
+      "planet orbit space",
+      "night sky stars",
+      "hourglass close up",
+      "communication technology blur",
+      "deep ocean dark"
+    ]
+  },
+  "hashtag_options": [
+    "mercuryretrograde",
+    "mercuryinscorpio",
+    "retrogradeseason",
+    "scorpioseason",
+    "mercuryshadow",
+    "planetaryretrograde",
+    "astrology2026",
+    "shorts",
+    "viral",
+    "astrology"
+  ],
+  "hashtag_message_id": 111,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-10-14T15:32:24.942555+00:00"
 }
