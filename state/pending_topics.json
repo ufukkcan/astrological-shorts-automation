@@ -3,7 +3,7 @@
   "trigger_date": "2026-10-13",
   "message_id": 110,
   "created_at": "2026-10-13T17:46:46.981019+00:00",
-  "status": "selecting_hashtags",
+  "status": "error",
   "candidates": [
     {
       "topic": "Mercury Retrograde Shadow — 11 Days Warning",
@@ -140,7 +140,7 @@
     "topic": "Mercury Retrograde Shadow — 11 Days Warning",
     "teaser": "Mercury isn't retrograde yet — but something is already going wrong with your words.",
     "video_title": "Mercury Turns Retrograde in 11 Days — Prepare Now",
-    "video_description": "Mercury stations retrograde on October 24th in Scorpio, and the shadow effects are already building. Here's what to watch before it officially flips.",
+    "video_description": "Mercury Retrograde Shadow — 11 Days Warning\n\n#mercuryretrograde #mercuryinscorpio #retrogradeseason #scorpioseason #mercuryshadow",
     "tags": [
       "mercuryretrograde",
       "mercuryinscorpio",
@@ -175,6 +175,12 @@
     "astrology"
   ],
   "hashtag_message_id": 111,
-  "selected_hashtags": [],
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
   "hashtag_started_at": "2026-10-14T15:32:24.942555+00:00"
 }
