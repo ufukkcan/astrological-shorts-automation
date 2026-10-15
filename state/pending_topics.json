@@ -1,9 +1,9 @@
 {
   "batch_id": "20261015-1854",
   "trigger_date": "2026-10-15",
-  "message_id": 117,
+  "message_id": 122,
   "created_at": "2026-10-15T18:54:28.018613+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Mercury Retrograde Warning — 9 Days Out (Oct 15)",
@@ -140,7 +140,7 @@
     "topic": "Mercury Retrograde Warning — 9 Days Out (Oct 15)",
     "teaser": "Mercury goes retrograde in 9 days — and most people won't see it coming until it's too late.",
     "video_title": "Mercury Retrograde Hits in 9 Days — Are You Ready?",
-    "video_description": "Mercury stations retrograde on October 24 in Scorpio, and the shadow effects are already building. With five planets already retrograde, this one tips the scale. Here's what to watch for now.",
+    "video_description": "Mercury Retrograde Warning — 9 Days Out (Oct 15)\n\n#mercuryretrograde #retrogradeseason #mercuryrx #shorts #viral",
     "tags": [
       "mercuryretrograde",
       "mercuryinscorpio",
@@ -175,6 +175,15 @@
     "astrology"
   ],
   "hashtag_message_id": 120,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-10-15T18:57:13.162265+00:00"
+  "selected_hashtags": [
+    0,
+    2,
+    6,
+    7,
+    8
+  ],
+  "hashtag_started_at": "2026-10-15T18:57:13.162265+00:00",
+  "video_file_id": "BAACAgQAAxkDAAN6atEim36ul7VZ5F835aeAEoso-FsAAhYhAAIskYlSjaahWsXEsJw9BA",
+  "review_started_at": "2026-10-15T18:59:39.992487+00:00",
+  "attempts": 1
 }
