@@ -3,7 +3,7 @@
   "trigger_date": "2026-10-15",
   "message_id": 117,
   "created_at": "2026-10-15T18:54:28.018613+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Mercury Retrograde Warning — 9 Days Out (Oct 15)",
@@ -135,5 +135,46 @@
         "candle flame close"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Mercury Retrograde Warning — 9 Days Out (Oct 15)",
+    "teaser": "Mercury goes retrograde in 9 days — and most people won't see it coming until it's too late.",
+    "video_title": "Mercury Retrograde Hits in 9 Days — Are You Ready?",
+    "video_description": "Mercury stations retrograde on October 24 in Scorpio, and the shadow effects are already building. With five planets already retrograde, this one tips the scale. Here's what to watch for now.",
+    "tags": [
+      "mercuryretrograde",
+      "mercuryinscorpio",
+      "retrogradeseason",
+      "scorpioseason",
+      "planetaryretrograde",
+      "astrology2026",
+      "mercuryrx",
+      "shorts",
+      "viral",
+      "astrology"
+    ],
+    "script": "Nine days. That's all you have before Mercury goes retrograde in Scorpio — October 24th. And here's what nobody's telling you: five planets are already retrograde right now, Venus, Saturn, Uranus, Neptune, Pluto — Mercury will make it six. Scorpio rules secrets, obsession, and things buried alive. When Mercury stations here, conversations you thought were dead come crawling back. Back up everything. Sign nothing major. Which area of your life can't afford a rewind?",
+    "visual_keywords": [
+      "planet retrograde space",
+      "mercury planet",
+      "night sky stars",
+      "calendar countdown",
+      "deep space orbit"
+    ]
+  },
+  "hashtag_options": [
+    "mercuryretrograde",
+    "mercuryinscorpio",
+    "retrogradeseason",
+    "scorpioseason",
+    "planetaryretrograde",
+    "astrology2026",
+    "mercuryrx",
+    "shorts",
+    "viral",
+    "astrology"
+  ],
+  "hashtag_message_id": 120,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-10-15T18:57:13.162265+00:00"
 }
