@@ -3,7 +3,7 @@
   "trigger_date": "2026-10-16",
   "message_id": 124,
   "created_at": "2026-10-16T16:58:40.890905+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Mercury Retrograde 8 Days Warning — Scorpio",
@@ -135,5 +135,46 @@
         "moonlit house exterior"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Mercury Retrograde 8 Days Warning — Scorpio",
+    "teaser": "Mercury goes retrograde in 8 days — and it's happening in one of the most dangerous signs for communication.",
+    "video_title": "Mercury Retrograde Hits in 8 Days — Are You Ready?",
+    "video_description": "Mercury stations retrograde on October 24th in Scorpio 18°. With Venus already retrograde in the same sign, this double Scorpio retrograde pressure is rare. Secrets, contracts, and deep conversations are all at risk.",
+    "tags": [
+      "mercuryretrograde",
+      "mercuryinscorpio",
+      "retrogradeseason",
+      "scorpioseason",
+      "venusretrograde",
+      "scorpio2026",
+      "astrology",
+      "zodiac",
+      "shorts",
+      "viral"
+    ],
+    "script": "Eight days. That's how long you have before Mercury goes retrograde — inside Scorpio. Mercury stations on October 24th at 18° Scorpio, and Venus is already retrograde in the same sign right now. Two planets both reversing in Scorpio means secrets surface, texts get misread, and conversations cut deeper than anyone intended. This isn't the retrograde to sign contracts or confess feelings on impulse. Which sign are you — because some of you will feel this more than others.",
+    "visual_keywords": [
+      "night sky stars",
+      "planets space",
+      "hourglass countdown",
+      "scorpion macro",
+      "dark moody atmosphere"
+    ]
+  },
+  "hashtag_options": [
+    "mercuryretrograde",
+    "mercuryinscorpio",
+    "retrogradeseason",
+    "scorpioseason",
+    "venusretrograde",
+    "scorpio2026",
+    "astrology",
+    "zodiac",
+    "shorts",
+    "viral"
+  ],
+  "hashtag_message_id": 125,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-10-17T15:56:11.898958+00:00"
 }
