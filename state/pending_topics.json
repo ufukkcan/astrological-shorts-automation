@@ -1,9 +1,9 @@
 {
   "batch_id": "20261016-1658",
   "trigger_date": "2026-10-16",
-  "message_id": 124,
+  "message_id": 127,
   "created_at": "2026-10-16T16:58:40.890905+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Mercury Retrograde 8 Days Warning — Scorpio",
@@ -140,7 +140,7 @@
     "topic": "Mercury Retrograde 8 Days Warning — Scorpio",
     "teaser": "Mercury goes retrograde in 8 days — and it's happening in one of the most dangerous signs for communication.",
     "video_title": "Mercury Retrograde Hits in 8 Days — Are You Ready?",
-    "video_description": "Mercury stations retrograde on October 24th in Scorpio 18°. With Venus already retrograde in the same sign, this double Scorpio retrograde pressure is rare. Secrets, contracts, and deep conversations are all at risk.",
+    "video_description": "Mercury Retrograde 8 Days Warning — Scorpio\n\n#mercuryretrograde #mercuryinscorpio #retrogradeseason #scorpioseason #venusretrograde",
     "tags": [
       "mercuryretrograde",
       "mercuryinscorpio",
@@ -175,6 +175,15 @@
     "viral"
   ],
   "hashtag_message_id": 125,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-10-17T15:56:11.898958+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-10-17T15:56:11.898958+00:00",
+  "video_file_id": "BAACAgQAAxkDAAN_atTF0YB9V9ZruR0Vmc_exwgOC48AAsAlAAJOOahSEc1Sf99Wh_89BA",
+  "review_started_at": "2026-10-18T13:12:49.651923+00:00",
+  "attempts": 1
 }
