@@ -1,9 +1,9 @@
 {
   "batch_id": "20261018-1631",
   "trigger_date": "2026-10-18",
-  "message_id": 129,
+  "message_id": 132,
   "created_at": "2026-10-18T16:31:59.348216+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Mercury Retrograde 6 Days Warning — Scorpio",
@@ -140,7 +140,7 @@
     "topic": "Mercury Retrograde 6 Days Warning — Scorpio",
     "teaser": "Mercury goes retrograde in Scorpio in just 6 days — and most people have no idea what's about to hit them.",
     "video_title": "Mercury Retrograde Hits Scorpio in 6 Days",
-    "video_description": "Mercury stations retrograde in Scorpio on October 24th, joining four planets already in reverse. Here's what to expect and how to prepare.",
+    "video_description": "Mercury Retrograde 6 Days Warning — Scorpio\n\n#mercuryretrograde #mercuryinscorpio #retrograde2026 #scorpioseason #mercuryrx",
     "tags": [
       "mercuryretrograde",
       "mercuryinscorpio",
@@ -175,6 +175,15 @@
     "zodiac"
   ],
   "hashtag_message_id": 130,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-10-19T13:01:07.195493+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-10-19T13:01:07.195493+00:00",
+  "video_file_id": "BAACAgQAAxkDAAOEatdRCFFBD0Ew3XGHn-U5Tb5lWg0AAowgAAJv6LlSPn2tOV7SzJA9BA",
+  "review_started_at": "2026-10-20T11:31:20.215635+00:00",
+  "attempts": 1
 }
