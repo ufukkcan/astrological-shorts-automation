@@ -1,9 +1,9 @@
 {
   "batch_id": "20261021-1535",
   "trigger_date": "2026-10-21",
-  "message_id": 135,
+  "message_id": 138,
   "created_at": "2026-10-21T15:35:06.333785+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Mercury Retrograde 3 Days Warning — Scorpio",
@@ -140,7 +140,7 @@
     "topic": "Mercury Retrograde 3 Days Warning — Scorpio",
     "teaser": "Mercury goes retrograde in three days — and most people have no idea what's about to hit them.",
     "video_title": "Mercury Retrograde Starts in 3 Days — Scorpio",
-    "video_description": "Mercury stations retrograde in Scorpio on October 24th. With four planets already retrograde, this adds a fifth layer of cosmic slowdown — especially intense for water signs.",
+    "video_description": "Mercury Retrograde 3 Days Warning — Scorpio\n\n#mercuryretrograde #mercuryinscorpio #retrogradeseason #scorpioseason #scorpio",
     "tags": [
       "mercuryretrograde",
       "mercuryinscorpio",
@@ -175,6 +175,15 @@
     "zodiac"
   ],
   "hashtag_message_id": 136,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-10-22T15:36:36.888554+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-10-22T15:36:36.888554+00:00",
+  "video_file_id": "BAACAgQAAxkDAAOKatt8Ho7UgMrWi-ZX3AOK-501f-8AAr4gAAKdwuFSW4Lw5orb6VM9BA",
+  "review_started_at": "2026-10-23T15:24:15.083908+00:00",
+  "attempts": 1
 }
