@@ -3,7 +3,7 @@
   "trigger_date": "2026-10-24",
   "message_id": 141,
   "created_at": "2026-10-24T16:52:44.961680+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Full Moon in Aries — Five Planets Retrograde Collision",
@@ -135,5 +135,46 @@
         "zodiac wheel"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Full Moon in Aries — Five Planets Retrograde Collision",
+    "teaser": "There's a Full Moon in Aries happening while FIVE planets are retrograde at the same time — does that make tonight dangerous or just incredibly intense?",
+    "video_title": "Full Moon in Aries — 5 Planets Retrograde Right Now",
+    "video_description": "Tonight's Full Moon in Aries collides with five simultaneous retrogrades, including Mercury, Venus, Saturn, Uranus, and Neptune. Astrologers say this is one of the most charged lunations of the year. Here's what it means.",
+    "tags": [
+      "fullmooninaries",
+      "fullmoon",
+      "mercuryretrograde",
+      "venusretrograde",
+      "saturnretrograde",
+      "fiveplanetsretrograde",
+      "ariesfullmoon",
+      "scorpioseason",
+      "shorts",
+      "astrology"
+    ],
+    "script": "Five planets are retrograde tonight — and the Full Moon is in Aries. That is not a coincidence you scroll past. In astrology, Aries Full Moons are already explosive — they pull at your anger, your identity, your unfinished fights. But with Mercury retrograde in Scorpio, Venus retrograde in Scorpio, and Saturn retrograde right there in Aries at 9 degrees, this Moon is being compressed on all sides. Something is being forced to a head. Which area of your life feels like it's been holding its breath?",
+    "visual_keywords": [
+      "full moon night sky",
+      "red moon clouds",
+      "planets space",
+      "galaxy stars",
+      "moonrise dramatic"
+    ]
+  },
+  "hashtag_options": [
+    "fullmooninaries",
+    "fullmoon",
+    "mercuryretrograde",
+    "venusretrograde",
+    "saturnretrograde",
+    "fiveplanetsretrograde",
+    "ariesfullmoon",
+    "scorpioseason",
+    "shorts",
+    "astrology"
+  ],
+  "hashtag_message_id": 142,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-10-25T16:04:50.085104+00:00"
 }
