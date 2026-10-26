@@ -1,9 +1,9 @@
 {
   "batch_id": "20261024-1652",
   "trigger_date": "2026-10-24",
-  "message_id": 141,
+  "message_id": 144,
   "created_at": "2026-10-24T16:52:44.961680+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Full Moon in Aries — Five Planets Retrograde Collision",
@@ -140,7 +140,7 @@
     "topic": "Full Moon in Aries — Five Planets Retrograde Collision",
     "teaser": "There's a Full Moon in Aries happening while FIVE planets are retrograde at the same time — does that make tonight dangerous or just incredibly intense?",
     "video_title": "Full Moon in Aries — 5 Planets Retrograde Right Now",
-    "video_description": "Tonight's Full Moon in Aries collides with five simultaneous retrogrades, including Mercury, Venus, Saturn, Uranus, and Neptune. Astrologers say this is one of the most charged lunations of the year. Here's what it means.",
+    "video_description": "Full Moon in Aries — Five Planets Retrograde Collision\n\n#fullmooninaries #fullmoon #mercuryretrograde #venusretrograde #saturnretrograde",
     "tags": [
       "fullmooninaries",
       "fullmoon",
@@ -175,6 +175,15 @@
     "astrology"
   ],
   "hashtag_message_id": 142,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-10-25T16:04:50.085104+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-10-25T16:04:50.085104+00:00",
+  "video_file_id": "BAACAgQAAxkDAAOQat9XPldILin56XarGVCWmpTAUAYAAkMhAALhEgABU4P3vmFSE2lrPQQ",
+  "review_started_at": "2026-10-26T13:35:59.110337+00:00",
+  "attempts": 1
 }
