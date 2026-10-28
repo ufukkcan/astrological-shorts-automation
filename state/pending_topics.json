@@ -3,7 +3,7 @@
   "trigger_date": "2026-10-27",
   "message_id": 147,
   "created_at": "2026-10-27T18:58:21.361371+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Full Moon in Taurus — Five Planets Retrograde Collision",
@@ -135,5 +135,46 @@
         "night sky stars"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Full Moon in Taurus — Five Planets Retrograde Collision",
+    "teaser": "Tonight's Full Moon is pulling in five retrograde planets at once — and astrologers say this one is different.",
+    "video_title": "Full Moon in Taurus — 5 Retrogrades Hit at Once",
+    "video_description": "The Full Moon in Taurus on October 27 opposes the Scorpio Sun while five planets are simultaneously retrograde. Astrologers interpret this as a rare pressure point between what you value and what you're being asked to release.",
+    "tags": [
+      "fullmoonintaurus",
+      "fullmoon",
+      "mercuryretrograde",
+      "venusretrograde",
+      "scorpioseason",
+      "taurusfullmoon",
+      "retrogradeseason",
+      "shorts",
+      "astrology",
+      "zodiac"
+    ],
+    "script": "Five planets are retrograde right now — and tonight they all collide with the Full Moon. The Moon is sitting at 26° Taurus, directly opposite the Scorpio Sun, pulling every unresolved thing you've been avoiding straight to the surface. Mercury, Venus, Saturn, Uranus, and Neptune are all moving backwards while this lunation peaks. In astrology, a Full Moon under this much retrograde pressure is read as a reckoning — not a celebration. What have you been refusing to feel?",
+    "visual_keywords": [
+      "full moon night sky",
+      "moonlight reflection water",
+      "planets space",
+      "night sky stars",
+      "galaxy cosmos"
+    ]
+  },
+  "hashtag_options": [
+    "fullmoonintaurus",
+    "fullmoon",
+    "mercuryretrograde",
+    "venusretrograde",
+    "scorpioseason",
+    "taurusfullmoon",
+    "retrogradeseason",
+    "shorts",
+    "astrology",
+    "zodiac"
+  ],
+  "hashtag_message_id": 148,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-10-28T19:42:56.618031+00:00"
 }
