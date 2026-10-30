@@ -1,189 +1,139 @@
 {
-  "batch_id": "20261027-1858",
-  "trigger_date": "2026-10-27",
-  "message_id": 150,
-  "created_at": "2026-10-27T18:58:21.361371+00:00",
-  "status": "done",
+  "batch_id": "20261030-1816",
+  "trigger_date": "2026-10-30",
+  "message_id": 153,
+  "created_at": "2026-10-30T18:16:12.899443+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "Full Moon in Taurus — Five Planets Retrograde Collision",
-      "teaser": "Tonight's Full Moon is pulling in five retrograde planets at once — and astrologers say this one is different.",
-      "video_title": "Full Moon in Taurus — 5 Retrogrades Hit at Once",
-      "video_description": "The Full Moon in Taurus on October 27 opposes the Scorpio Sun while five planets are simultaneously retrograde. Astrologers interpret this as a rare pressure point between what you value and what you're being asked to release.",
-      "tags": [
-        "fullmoonintaurus",
-        "fullmoon",
-        "mercuryretrograde",
-        "venusretrograde",
-        "scorpioseason",
-        "taurusfullmoon",
-        "retrogradeseason",
-        "shorts",
-        "astrology",
-        "zodiac"
-      ],
-      "script": "Five planets are retrograde right now — and tonight they all collide with the Full Moon. The Moon is sitting at 26° Taurus, directly opposite the Scorpio Sun, pulling every unresolved thing you've been avoiding straight to the surface. Mercury, Venus, Saturn, Uranus, and Neptune are all moving backwards while this lunation peaks. In astrology, a Full Moon under this much retrograde pressure is read as a reckoning — not a celebration. What have you been refusing to feel?",
-      "visual_keywords": [
-        "full moon night sky",
-        "moonlight reflection water",
-        "planets space",
-        "night sky stars",
-        "galaxy cosmos"
-      ]
-    },
-    {
-      "topic": "Mercury Retrograde in Scorpio — Now Active, What It's Targeting",
-      "teaser": "Mercury retrograde in Scorpio just started — and it's not going after your emails, it's going after your secrets.",
-      "video_title": "Mercury Retrograde in Scorpio — It's Not What You Think",
-      "video_description": "Mercury stationed retrograde in Scorpio on October 27 and stays there until November 13. Unlike typical Mercury retrogrades, this one falls in Scorpio — the sign of secrets, psychology, and hidden power dynamics.",
+      "topic": "Mercury Retrograde in Scorpio — Day One, What to Watch",
+      "teaser": "Mercury retrograde just started — and it's sitting in the darkest degree of Scorpio right now.",
+      "video_title": "Mercury Retrograde Starts Today — Scorpio's Darkest Spot",
+      "video_description": "Mercury retrograde is officially active as of today, October 30, sitting at 17° Scorpio. Here's what that placement means for communication, secrets, and buried truths over the next two weeks.",
       "tags": [
         "mercuryretrograde",
         "mercuryinscorpio",
         "scorpioseason",
-        "retrograde",
-        "mercuryretro2026",
+        "retrograde2026",
+        "mercuryrx",
         "scorpio",
-        "astrologytips",
+        "astrologytok",
         "shorts",
-        "astrology",
-        "zodiac"
+        "viral",
+        "astrology"
       ],
-      "script": "Mercury retrograde isn't what you think — not this time. It stationed retrograde today at 20° Scorpio, and it stays there until November 13th. Most Mercury retrogrades mess with your schedule. Scorpio sends it somewhere deeper: buried conversations, old betrayals, things you said you were over. In astrology, Mercury in Scorpio already digs for truth — retrograde makes it obsessive. Expect something you thought was resolved to resurface before this window closes. Which relationship comes to mind right now?",
+      "script": "Mercury retrograde just activated — today, October 30 — and it's sitting at 17 degrees Scorpio, which is not a gentle place to land. Scorpio rules secrets, obsession, and everything people hide. For the next two weeks, until November 13, expect old conversations to resurface, truths to leak out, and words to carry way more weight than usual. This isn't the retrograde that loses your luggage. This is the one that finds the messages you thought were deleted. Which sign are you?",
       "visual_keywords": [
+        "night sky stars",
+        "dark smoke texture",
         "scorpion close up",
-        "dark water reflection",
-        "constellation stars",
-        "night sky",
-        "ancient manuscript"
+        "stormy ocean waves",
+        "planets space"
       ]
     },
     {
-      "topic": "Venus Retrograde in Libra — Final Degrees Tension",
-      "teaser": "Venus is retrograde at 28° Libra right now — and that degree alone tells astrologers something urgent is ending.",
-      "video_title": "Venus Retrograde at 28° Libra — Something Is Ending",
-      "video_description": "Venus is currently retrograde at 28°Libra — just two degrees from the sign's final edge. In astrology, late degrees of any sign carry intensified, urgent energy. Combined with retrograde motion, this placement is read as a last chance to resolve something in love or values.",
+      "topic": "Five Planets Retrograde — Who's Affected Most Right Now",
+      "teaser": "Five planets are retrograde at the same time right now — but one specific sign is taking all five hits at once.",
+      "video_title": "5 Planets Retrograde — This One Sign Takes Every Hit",
+      "video_description": "Mercury, Venus, Saturn, Uranus, and Neptune are all retrograde simultaneously. Depending on your sign, you're either coasting or getting crushed. Here's who's in the crossfire.",
+      "tags": [
+        "fiveplanetsretrograde",
+        "mercuryretrograde",
+        "venusretrograde",
+        "saturnretrograde",
+        "retrogradeseason",
+        "zodiacsigns",
+        "astrologytok",
+        "shorts",
+        "viral",
+        "astrology"
+      ],
+      "script": "Five planets are retrograde right now — Mercury, Venus, Saturn, Uranus, and Neptune — all moving backward simultaneously. Most people only panic about Mercury. But if your chart is heavy in Scorpio, Libra, or Aries, you are getting stacked from every direction right now: communication collapsing, relationships rewinding, and long-term structure cracking. This isn't bad luck. Astrologers call this a collective pressure test. The question is what breaks and what gets rebuilt. Which sign feels it most for you?",
+      "visual_keywords": [
+        "solar system planets",
+        "galaxy space",
+        "night sky stars",
+        "abstract light spiral",
+        "constellation"
+      ]
+    },
+    {
+      "topic": "Waning Gibbous Moon in Cancer — Emotional Release Window",
+      "teaser": "The Moon is in Cancer right now, and in astrology that's considered one of its most powerful placements — here's why timing matters.",
+      "video_title": "Moon in Cancer Waning Gibbous — The Release Window Is Open",
+      "video_description": "A Waning Gibbous Moon in Cancer is traditionally considered one of the most emotionally charged phases for inner work and release. With five planets retrograde, this combination is especially potent.",
+      "tags": [
+        "moonincancer",
+        "waninggibbous",
+        "cancermoon",
+        "moonphases",
+        "lunarastrology",
+        "cancerzodiac",
+        "astrologytok",
+        "shorts",
+        "viral",
+        "astrology"
+      ],
+      "script": "The Moon is in Cancer right now, and in astrology that's one of the only signs where the Moon is said to be completely at home — heightening emotion, memory, and intuition. Paired with a Waning Gibbous phase, this is traditionally the window for release, not action. What you've been holding since the last Full Moon? This is the sky telling you to put it down. With five planets already in reverse, the theme is undeniably the same: let go before something makes you. What are you still holding onto?",
+      "visual_keywords": [
+        "full moon night",
+        "ocean waves calm",
+        "moonlight water reflection",
+        "woman meditation nature",
+        "clouds moon sky"
+      ]
+    },
+    {
+      "topic": "Scorpio Season — What the Sun at 7° Scorpio Actually Rules",
+      "teaser": "The Sun is in Scorpio right now — but most people misunderstand what Scorpio actually controls in astrology.",
+      "video_title": "Scorpio Season Truth — What This Sign Actually Rules",
+      "video_description": "The Sun sits at 7° Scorpio today. Beyond the 'mysterious and intense' clichés, Scorpio rules specific areas of life that most horoscope content never mentions — death, shared resources, transformation, and power.",
+      "tags": [
+        "scorpioseason",
+        "scorpio",
+        "suninscorpio",
+        "scorpioastrology",
+        "zodiacsigns",
+        "astrologyfacts",
+        "astrologytok",
+        "shorts",
+        "viral",
+        "astrology"
+      ],
+      "script": "Everyone calls Scorpio mysterious and intense, and then stops there. But in traditional astrology, Scorpio rules four very specific things: death and rebirth cycles, other people's money and shared resources, psychological transformation, and hidden power. The Sun moving through Scorpio isn't just a mood — it's a transit that illuminates wherever you've been avoiding depth. Right now at 7 degrees, we're barely into it. The Sun won't leave until late November. Whatever surface-level story you've been telling yourself, Scorpio season is coming for it.",
+      "visual_keywords": [
+        "scorpion macro",
+        "dark forest fog",
+        "ancient ruins night",
+        "fire flame dark",
+        "night sky stars"
+      ]
+    },
+    {
+      "topic": "Venus Retrograde in Libra — What Late-Degree Retrogrades Do",
+      "teaser": "Venus is retrograde at 26° Libra — and late-degree retrogrades in astrology do something completely different than normal ones.",
+      "video_title": "Venus Retrograde at 26° Libra — The Final Degrees Effect",
+      "video_description": "Venus sits at 26° Libra in retrograde, placing it in what astrologers call the 'anaretic zone' — the final degrees of a sign where planetary energy becomes urgent and unresolved. Here's what that means for relationships.",
       "tags": [
         "venusretrograde",
-        "venusinlibra",
+        "venuslibra",
         "libra",
-        "retrograde",
-        "venusretro2026",
+        "venusrx",
+        "retrograderelationships",
         "latedegrees",
-        "scorpioseason",
+        "astrologytok",
         "shorts",
-        "astrology",
-        "zodiac"
+        "viral",
+        "astrology"
       ],
-      "script": "Venus retrograde at 28° Libra is one of the most tension-loaded placements in astrology right now. The 28th degree sits two steps from the edge — astrologers call late degrees a crisis point, where a sign's themes become urgent and unavoidable. Venus rules love and what we value, Libra rules balance and partnership, and retrograde reverses direction. Something in your closest relationships is being reviewed for the last time before this chapter closes. Are you honest about what you actually want?",
+      "script": "Venus retrograde is sitting at 26 degrees Libra right now, and that placement matters more than most people realize. In astrology, the final degrees of any sign — anything above 27 — are called the anaretic degrees, where a planet's energy becomes urgent, almost desperate to resolve unfinished business before moving on. Venus governs relationships, values, and self-worth. Retrograde in Libra's final stretch means partnerships formed or broken right now carry an unusual weight. Something is trying to close. Are you letting it?",
       "visual_keywords": [
-        "rose petals",
-        "couple silhouette",
-        "scales balance",
-        "soft candlelight",
-        "night sky stars"
-      ]
-    },
-    {
-      "topic": "Scorpio Season — Sun at 4° Scorpio, What the Sign Actually Rules",
-      "teaser": "Everyone thinks Scorpio is about intensity and mystery — but astrologers say that's only half the story.",
-      "video_title": "What Scorpio Season Is Actually About",
-      "video_description": "The Sun is at 4° Scorpio, making this the heart of Scorpio season. Beyond the popular 'dark and mysterious' reputation, Scorpio in traditional astrology rules transformation, shared resources, death and rebirth cycles, and psychological power.",
-      "tags": [
-        "scorpioseason",
-        "scorpio",
-        "sunscorpio",
-        "astrologytips",
-        "scorpiotraits",
-        "transformationastrology",
-        "zodiacsigns",
-        "shorts",
-        "astrology",
-        "zodiac"
-      ],
-      "script": "Scorpio's reputation is intensity and mystery — but astrologers say that's the surface level read. The Sun is at 4° Scorpio right now, and what this sign actually governs runs much deeper: shared resources, power dynamics, psychological transformation, and the things we inherit from others — debt, trauma, money, secrets. Scorpio isn't dark for the sake of it. In traditional astrology, it rules the process of dying to one version of yourself so another can exist. What version of you is currently dissolving?",
-      "visual_keywords": [
-        "phoenix fire",
-        "dark forest fog",
-        "ancient temple ruins",
-        "candle flame dark",
-        "stars night sky"
-      ]
-    },
-    {
-      "topic": "The 12th House — Astrology's Most Misunderstood House",
-      "teaser": "If you have planets in your 12th house, most astrology content has been telling you the wrong thing about them.",
-      "video_title": "The 12th House — Astrology Got It Wrong",
-      "video_description": "The 12th house is traditionally called the house of hidden enemies, self-undoing, and isolation — which sounds terrifying. But modern and traditional astrologers increasingly interpret it as the house of unconscious strength, spiritual depth, and what operates beneath the surface of your personality.",
-      "tags": [
-        "12thhouse",
-        "astrologicalhouses",
-        "birthchart",
-        "natalchart",
-        "housesastrology",
-        "astrologytips",
-        "twelfthhouse",
-        "shorts",
-        "astrology",
-        "zodiac"
-      ],
-      "script": "If you have planets in your 12th house, you've probably been told they're hidden, weakened, or working against you. Traditional astrology called it the house of self-undoing and hidden enemies — which is accurate, but massively incomplete. The 12th house is where your chart operates below the surface: unconscious patterns, spiritual sensitivity, things you sense before you understand them. Planets here aren't lost — they're just not performing for the crowd. Do you know what's in your 12th?",
-      "visual_keywords": [
-        "deep ocean underwater",
-        "meditation person shadow",
-        "misty forest",
-        "ancient library",
-        "night sky stars"
+        "rose petals close up",
+        "couple silhouette sunset",
+        "scales balance marble",
+        "vintage mirror reflection",
+        "soft pink abstract light"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "Full Moon in Taurus — Five Planets Retrograde Collision",
-    "teaser": "Tonight's Full Moon is pulling in five retrograde planets at once — and astrologers say this one is different.",
-    "video_title": "Full Moon in Taurus — 5 Retrogrades Hit at Once",
-    "video_description": "Full Moon in Taurus — Five Planets Retrograde Collision\n\n#fullmoonintaurus #fullmoon #mercuryretrograde #venusretrograde #scorpioseason",
-    "tags": [
-      "fullmoonintaurus",
-      "fullmoon",
-      "mercuryretrograde",
-      "venusretrograde",
-      "scorpioseason",
-      "taurusfullmoon",
-      "retrogradeseason",
-      "shorts",
-      "astrology",
-      "zodiac"
-    ],
-    "script": "Five planets are retrograde right now — and tonight they all collide with the Full Moon. The Moon is sitting at 26° Taurus, directly opposite the Scorpio Sun, pulling every unresolved thing you've been avoiding straight to the surface. Mercury, Venus, Saturn, Uranus, and Neptune are all moving backwards while this lunation peaks. In astrology, a Full Moon under this much retrograde pressure is read as a reckoning — not a celebration. What have you been refusing to feel?",
-    "visual_keywords": [
-      "full moon night sky",
-      "moonlight reflection water",
-      "planets space",
-      "night sky stars",
-      "galaxy cosmos"
-    ]
-  },
-  "hashtag_options": [
-    "fullmoonintaurus",
-    "fullmoon",
-    "mercuryretrograde",
-    "venusretrograde",
-    "scorpioseason",
-    "taurusfullmoon",
-    "retrogradeseason",
-    "shorts",
-    "astrology",
-    "zodiac"
-  ],
-  "hashtag_message_id": 148,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-10-28T19:42:56.618031+00:00",
-  "video_file_id": "BAACAgQAAxkDAAOWauNsRiuWV4j1s29vDlYNnL5w7Q8AAjAiAAKYoBhTa1oGiU9_ZBI9BA",
-  "review_started_at": "2026-10-29T15:54:46.847567+00:00",
-  "attempts": 1
+  ]
 }
