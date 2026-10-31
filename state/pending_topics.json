@@ -3,7 +3,7 @@
   "trigger_date": "2026-10-30",
   "message_id": 153,
   "created_at": "2026-10-30T18:16:12.899443+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Mercury Retrograde in Scorpio — Day One, What to Watch",
@@ -135,5 +135,46 @@
         "soft pink abstract light"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Mercury Retrograde in Scorpio — Day One, What to Watch",
+    "teaser": "Mercury retrograde just started — and it's sitting in the darkest degree of Scorpio right now.",
+    "video_title": "Mercury Retrograde Starts Today — Scorpio's Darkest Spot",
+    "video_description": "Mercury retrograde is officially active as of today, October 30, sitting at 17° Scorpio. Here's what that placement means for communication, secrets, and buried truths over the next two weeks.",
+    "tags": [
+      "mercuryretrograde",
+      "mercuryinscorpio",
+      "scorpioseason",
+      "retrograde2026",
+      "mercuryrx",
+      "scorpio",
+      "astrologytok",
+      "shorts",
+      "viral",
+      "astrology"
+    ],
+    "script": "Mercury retrograde just activated — today, October 30 — and it's sitting at 17 degrees Scorpio, which is not a gentle place to land. Scorpio rules secrets, obsession, and everything people hide. For the next two weeks, until November 13, expect old conversations to resurface, truths to leak out, and words to carry way more weight than usual. This isn't the retrograde that loses your luggage. This is the one that finds the messages you thought were deleted. Which sign are you?",
+    "visual_keywords": [
+      "night sky stars",
+      "dark smoke texture",
+      "scorpion close up",
+      "stormy ocean waves",
+      "planets space"
+    ]
+  },
+  "hashtag_options": [
+    "mercuryretrograde",
+    "mercuryinscorpio",
+    "scorpioseason",
+    "retrograde2026",
+    "mercuryrx",
+    "scorpio",
+    "astrologytok",
+    "shorts",
+    "viral",
+    "astrology"
+  ],
+  "hashtag_message_id": 154,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-10-31T18:00:06.307858+00:00"
 }
