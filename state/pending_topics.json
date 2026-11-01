@@ -1,9 +1,9 @@
 {
   "batch_id": "20261030-1816",
   "trigger_date": "2026-10-30",
-  "message_id": 153,
+  "message_id": 156,
   "created_at": "2026-10-30T18:16:12.899443+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Mercury Retrograde in Scorpio — Day One, What to Watch",
@@ -140,7 +140,7 @@
     "topic": "Mercury Retrograde in Scorpio — Day One, What to Watch",
     "teaser": "Mercury retrograde just started — and it's sitting in the darkest degree of Scorpio right now.",
     "video_title": "Mercury Retrograde Starts Today — Scorpio's Darkest Spot",
-    "video_description": "Mercury retrograde is officially active as of today, October 30, sitting at 17° Scorpio. Here's what that placement means for communication, secrets, and buried truths over the next two weeks.",
+    "video_description": "Mercury Retrograde in Scorpio — Day One, What to Watch\n\n#mercuryretrograde #mercuryinscorpio #scorpioseason #retrograde2026 #mercuryrx",
     "tags": [
       "mercuryretrograde",
       "mercuryinscorpio",
@@ -175,6 +175,15 @@
     "astrology"
   ],
   "hashtag_message_id": 154,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-10-31T18:00:06.307858+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-10-31T18:00:06.307858+00:00",
+  "video_file_id": "BAACAgQAAxkDAAOcaud97jIsGPmpKGygAT9trUgOcCkAAkQeAAIKV0FTnzNjkLjmB_Y9BA",
+  "review_started_at": "2026-11-01T17:59:11.030989+00:00",
+  "attempts": 1
 }
