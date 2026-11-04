@@ -3,7 +3,7 @@
   "trigger_date": "2026-11-03",
   "message_id": 159,
   "created_at": "2026-11-03T19:58:22.398562+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Mercury Retrograde in Scorpio — Day 1 Active Now",
@@ -135,5 +135,46 @@
         "planets space"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Mercury Retrograde in Scorpio — Day 1 Active Now",
+    "teaser": "Mercury retrograde just started — and it's sitting right on top of the Sun in Scorpio. What does that actually mean for you?",
+    "video_title": "Mercury Retrograde Starts Today — Scorpio Hit Hard",
+    "video_description": "Mercury retrograde is now active in Scorpio through November 13. With Mercury at 13° and the Sun at 11° Scorpio, secrets and old conversations are resurfacing. Here's what astrologers say to watch.",
+    "tags": [
+      "mercuryretrograde",
+      "mercuryretrogradescorpio",
+      "scorpioseason",
+      "retrogradeplants",
+      "scorpio2026",
+      "astrologynow",
+      "shorts",
+      "viral",
+      "astrology",
+      "zodiac"
+    ],
+    "script": "Mercury retrograde just started — today, November third — and it's sitting at thirteen degrees Scorpio, almost exactly on top of the Sun. In astrology, that's called a cazimi, a moment when a planet is so close to the Sun it's considered supercharged. The catch? It's retrograde. So whatever truth Scorpio has been hiding is about to surface fast. Old messages, old feelings, old deals — nothing stays buried until November thirteenth. Which sign are you?",
+    "visual_keywords": [
+      "night sky stars",
+      "planets space",
+      "scorpion close up",
+      "dark water reflection",
+      "galaxy nebula"
+    ]
+  },
+  "hashtag_options": [
+    "mercuryretrograde",
+    "mercuryretrogradescorpio",
+    "scorpioseason",
+    "retrogradeplants",
+    "scorpio2026",
+    "astrologynow",
+    "shorts",
+    "viral",
+    "astrology",
+    "zodiac"
+  ],
+  "hashtag_message_id": 160,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-11-04T21:00:24.028220+00:00"
 }
