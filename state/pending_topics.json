@@ -1,9 +1,9 @@
 {
   "batch_id": "20261103-1958",
   "trigger_date": "2026-11-03",
-  "message_id": 159,
+  "message_id": 162,
   "created_at": "2026-11-03T19:58:22.398562+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Mercury Retrograde in Scorpio — Day 1 Active Now",
@@ -140,7 +140,7 @@
     "topic": "Mercury Retrograde in Scorpio — Day 1 Active Now",
     "teaser": "Mercury retrograde just started — and it's sitting right on top of the Sun in Scorpio. What does that actually mean for you?",
     "video_title": "Mercury Retrograde Starts Today — Scorpio Hit Hard",
-    "video_description": "Mercury retrograde is now active in Scorpio through November 13. With Mercury at 13° and the Sun at 11° Scorpio, secrets and old conversations are resurfacing. Here's what astrologers say to watch.",
+    "video_description": "Mercury Retrograde in Scorpio — Day 1 Active Now\n\n#mercuryretrograde #mercuryretrogradescorpio #scorpioseason #retrogradeplants #scorpio2026",
     "tags": [
       "mercuryretrograde",
       "mercuryretrogradescorpio",
@@ -175,6 +175,15 @@
     "zodiac"
   ],
   "hashtag_message_id": 160,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-11-04T21:00:24.028220+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-11-04T21:00:24.028220+00:00",
+  "video_file_id": "BAACAgQAAxkDAAOiauz980DiK3kyyIQuBo0aCqg7bvAAAn0dAAJgTGlTQLj4plf5PaA9BA",
+  "review_started_at": "2026-11-05T22:06:43.222325+00:00",
+  "attempts": 1
 }
