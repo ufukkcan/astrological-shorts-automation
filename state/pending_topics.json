@@ -3,7 +3,7 @@
   "trigger_date": "2026-11-07",
   "message_id": 165,
   "created_at": "2026-11-07T14:09:47.651780+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Mercury Retrograde Final Week — Scorpio",
@@ -135,5 +135,46 @@
         "fog misty landscape"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Mercury Retrograde Final Week — Scorpio",
+    "teaser": "Mercury retrograde ends in 7 days — but the last week is always the most dangerous.",
+    "video_title": "Mercury Retrograde's Final Week Is the Worst One",
+    "video_description": "Mercury stations direct on November 14 — but astrologers warn the final stretch of a retrograde cycle is where the real chaos peaks. Here's what to watch before the storm clears.",
+    "tags": [
+      "mercuryretrograde",
+      "mercuryscorpio",
+      "retrograde2026",
+      "scorpioseason",
+      "scorpio",
+      "astrologytips",
+      "planetaryalignment",
+      "shorts",
+      "viral",
+      "astrology"
+    ],
+    "script": "The last seven days of Mercury retrograde are always the most chaotic — and we're inside them right now. Mercury sits at 8° Scorpio, still reversed, and doesn't station direct until November 14. In traditional astrology, the final stretch before a station is called the storm window — this is when miscommunications peak, contracts backfire, and buried truths surface without warning. Scorpio doesn't soften any of that. What conversation have you been avoiding?",
+    "visual_keywords": [
+      "mercury planet space",
+      "night sky stars",
+      "galaxy nebula",
+      "storm clouds lightning",
+      "calendar countdown"
+    ]
+  },
+  "hashtag_options": [
+    "mercuryretrograde",
+    "mercuryscorpio",
+    "retrograde2026",
+    "scorpioseason",
+    "scorpio",
+    "astrologytips",
+    "planetaryalignment",
+    "shorts",
+    "viral",
+    "astrology"
+  ],
+  "hashtag_message_id": 166,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-11-08T14:35:55.021834+00:00"
 }
