@@ -1,9 +1,9 @@
 {
   "batch_id": "20261107-1409",
   "trigger_date": "2026-11-07",
-  "message_id": 165,
+  "message_id": 168,
   "created_at": "2026-11-07T14:09:47.651780+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Mercury Retrograde Final Week — Scorpio",
@@ -140,7 +140,7 @@
     "topic": "Mercury Retrograde Final Week — Scorpio",
     "teaser": "Mercury retrograde ends in 7 days — but the last week is always the most dangerous.",
     "video_title": "Mercury Retrograde's Final Week Is the Worst One",
-    "video_description": "Mercury stations direct on November 14 — but astrologers warn the final stretch of a retrograde cycle is where the real chaos peaks. Here's what to watch before the storm clears.",
+    "video_description": "Mercury Retrograde Final Week — Scorpio\n\n#mercuryretrograde #mercuryscorpio #retrograde2026 #scorpioseason #scorpio",
     "tags": [
       "mercuryretrograde",
       "mercuryscorpio",
@@ -175,6 +175,15 @@
     "astrology"
   ],
   "hashtag_message_id": 166,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-11-08T14:35:55.021834+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-11-08T14:35:55.021834+00:00",
+  "video_file_id": "BAACAgQAAxkDAAOoavInjYeRsejuOrArTMZA_1SA8i0AAhckAALZH5BTElzqrnjdRAs9BA",
+  "review_started_at": "2026-11-09T20:05:33.601495+00:00",
+  "attempts": 1
 }
