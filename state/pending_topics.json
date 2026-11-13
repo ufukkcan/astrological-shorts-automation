@@ -1,9 +1,9 @@
 {
   "batch_id": "20261111-1730",
   "trigger_date": "2026-11-11",
-  "message_id": 171,
+  "message_id": 174,
   "created_at": "2026-11-11T17:30:51.242823+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Mercury Retrograde Final Days — Scorpio Ends Nov 13",
@@ -140,7 +140,7 @@
     "topic": "Mercury Retrograde Final Days — Scorpio Ends Nov 13",
     "teaser": "Mercury retrograde ends in two days — but the real danger is what happens right before it turns direct.",
     "video_title": "Mercury Retrograde Ends in 2 Days — Don't Relax Yet",
-    "video_description": "Mercury retrograde in Scorpio wraps up November 13, but the final hours of a retrograde are historically the most volatile. Here's what to watch.",
+    "video_description": "Mercury Retrograde Final Days — Scorpio Ends Nov 13\n\n#mercuryretrograde #mercuryinscorpio #retrograde2026 #scorpioseason #mercurydirect",
     "tags": [
       "mercuryretrograde",
       "mercuryinscorpio",
@@ -175,6 +175,15 @@
     "astrology"
   ],
   "hashtag_message_id": 172,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-11-12T20:28:21.554628+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-11-12T20:28:21.554628+00:00",
+  "video_file_id": "BAACAgQAAxkDAAOuaveIuSyINGlKIhG8XWQ5gZOWykoAAishAAJDN8BTsZxeTW0RNe09BA",
+  "review_started_at": "2026-11-13T22:01:29.517156+00:00",
+  "attempts": 1
 }
