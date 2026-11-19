@@ -3,7 +3,7 @@
   "trigger_date": "2026-11-18",
   "message_id": 182,
   "created_at": "2026-11-18T18:01:21.444239+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "First Quarter Moon in Pisces — Scorpio Season Tension",
@@ -135,5 +135,46 @@
         "tarot cards"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "First Quarter Moon in Pisces — Scorpio Season Tension",
+    "teaser": "The Moon is in Pisces right now — and it's creating a hidden battle most people don't see coming.",
+    "video_title": "First Quarter Moon in Pisces — The Hidden Tension",
+    "video_description": "The First Quarter Moon in Pisces clashes with the Scorpio Sun, creating a push-pull between logic and emotion. Here's what that means for you this week.",
+    "tags": [
+      "firstquartermoon",
+      "mooninpisces",
+      "piscesmoon",
+      "scorpioseason",
+      "lunarphases",
+      "moonastrology",
+      "wattersigns",
+      "shorts",
+      "astrology",
+      "zodiac"
+    ],
+    "script": "The Moon is in Pisces right now — and it's fighting the Scorpio Sun in a way most people completely ignore. First Quarter Moons are about tension, action, resistance. But in Pisces, that tension doesn't scream — it dissolves. You feel pulled between what you know and what you sense. Scorpio wants the truth. Pisces wants the dream. If you've felt emotionally exhausted but can't explain why, this square is probably why. Which one are you listening to?",
+    "visual_keywords": [
+      "full moon night sky",
+      "ocean waves night",
+      "dreamy fog water",
+      "moon reflection water",
+      "night clouds"
+    ]
+  },
+  "hashtag_options": [
+    "firstquartermoon",
+    "mooninpisces",
+    "piscesmoon",
+    "scorpioseason",
+    "lunarphases",
+    "moonastrology",
+    "wattersigns",
+    "shorts",
+    "astrology",
+    "zodiac"
+  ],
+  "hashtag_message_id": 183,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-11-19T16:38:15.915410+00:00"
 }
