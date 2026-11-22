@@ -1,189 +1,139 @@
 {
-  "batch_id": "20261118-1801",
-  "trigger_date": "2026-11-18",
-  "message_id": 185,
-  "created_at": "2026-11-18T18:01:21.444239+00:00",
-  "status": "done",
+  "batch_id": "20261122-1643",
+  "trigger_date": "2026-11-22",
+  "message_id": 188,
+  "created_at": "2026-11-22T16:43:09.973187+00:00",
+  "status": "pending",
   "candidates": [
     {
-      "topic": "First Quarter Moon in Pisces — Scorpio Season Tension",
-      "teaser": "The Moon is in Pisces right now — and it's creating a hidden battle most people don't see coming.",
-      "video_title": "First Quarter Moon in Pisces — The Hidden Tension",
-      "video_description": "The First Quarter Moon in Pisces clashes with the Scorpio Sun, creating a push-pull between logic and emotion. Here's what that means for you this week.",
+      "topic": "Sun enters Sagittarius — Season Shift",
+      "teaser": "The Sun just changed signs — and for some placements, it's the first real exhale in weeks.",
+      "video_title": "Sun Just Entered Sagittarius — Feel the Shift",
+      "video_description": "The Sun moved into Sagittarius at 0.4°, closing out intense Scorpio season energy. Here's what this sign change actually means for the sky right now.",
       "tags": [
-        "firstquartermoon",
-        "mooninpisces",
-        "piscesmoon",
-        "scorpioseason",
-        "lunarphases",
-        "moonastrology",
-        "wattersigns",
+        "sagittariusseason",
+        "suninsagittarius",
+        "sagittarius",
+        "seasonshift",
+        "sagittariusenergy",
+        "zodiacseason",
         "shorts",
+        "viral",
         "astrology",
         "zodiac"
       ],
-      "script": "The Moon is in Pisces right now — and it's fighting the Scorpio Sun in a way most people completely ignore. First Quarter Moons are about tension, action, resistance. But in Pisces, that tension doesn't scream — it dissolves. You feel pulled between what you know and what you sense. Scorpio wants the truth. Pisces wants the dream. If you've felt emotionally exhausted but can't explain why, this square is probably why. Which one are you listening to?",
+      "script": "Scorpio season is over — and the sky just exhaled. The Sun is now at zero degrees Sagittarius, the very first breath of fire season, and after weeks of Scorpio's psychological depth, this shift is not subtle. Sagittarius wants expansion, truth, and forward motion. But here's the tension — Saturn, Uranus, and Neptune are all still retrograde. So the urge to move fast crashes directly into unfinished structure. Which sign are you?",
       "visual_keywords": [
-        "full moon night sky",
-        "ocean waves night",
-        "dreamy fog water",
-        "moon reflection water",
-        "night clouds"
+        "archer bow arrow",
+        "fire sky sunset",
+        "night sky stars",
+        "galaxy space",
+        "open road horizon"
       ]
     },
     {
-      "topic": "Three Planets Retrograde — Saturn Uranus Neptune in Late 2026",
-      "teaser": "Three planets are retrograde right now — and one of them only does this once every 84 years.",
-      "video_title": "3 Planets Retrograde Right Now — One Changes Everything",
-      "video_description": "Saturn, Uranus, and Neptune are all retrograde simultaneously in November 2026. Each one targets a different layer of your life — here's what to know.",
+      "topic": "Waxing Gibbous Moon in Taurus — Pleasure vs Pressure",
+      "teaser": "The Moon is almost full — and it's sitting in one of the most stubborn signs in the zodiac right now.",
+      "video_title": "Waxing Gibbous Moon in Taurus — Almost Full",
+      "video_description": "The Moon is in Taurus and building toward full. In astrology, Taurus Moon energy amplifies comfort-seeking and resistance to change — right as three planets remain retrograde.",
+      "tags": [
+        "taurusmoon",
+        "waxinggibbous",
+        "moonintaurus",
+        "moonphase",
+        "taurusseason",
+        "lunarenergy",
+        "shorts",
+        "viral",
+        "astrology",
+        "zodiac"
+      ],
+      "script": "The Moon is almost full — and it's locked in Taurus right now. In astrology, Taurus Moon energy is slow, sensory, and deeply resistant to change. It wants comfort, stability, and to hold on. But with Saturn, Uranus, and Neptune all retrograde, the pressure to revisit and rebuild isn't going anywhere. This Moon isn't letting you rush. It's asking what you're actually willing to keep — and what you've been protecting out of fear. What's yours?",
+      "visual_keywords": [
+        "full moon clouds",
+        "moonrise landscape",
+        "night sky moon",
+        "calm lake reflection",
+        "stars night"
+      ]
+    },
+    {
+      "topic": "Saturn Retrograde in Aries conjunct Neptune Retrograde — Reality Check",
+      "teaser": "Two slow-moving planets are sitting almost on top of each other in Aries right now — and both are moving backward.",
+      "video_title": "Saturn and Neptune Retrograde Together in Aries",
+      "video_description": "Saturn sits at 8° Aries retrograde, Neptune at 1° Aries retrograde. Astrologers interpret this rare overlap as a collision between reality and illusion — moving backward at the same time.",
       "tags": [
         "saturnretrograde",
-        "uranusretrograde",
         "neptuneretrograde",
-        "retrogradeseason",
-        "saturninareis",
-        "uranusingemi",
-        "neptuneinareis",
-        "shorts",
-        "astrology",
-        "viral"
-      ],
-      "script": "Three planets are retrograde right now — and one of them only moves through this sign once in your entire lifetime. Saturn is retrograde in Aries, forcing a reckoning with every structure you built on shaky ground. Uranus is retrograde in Gemini, quietly rewiring how you think and communicate. Neptune is retrograde in Aries — a placement so rare, no one alive has seen it before. These aren't minor transits. They're generational corrections. What in your life has been asking for a full reset?",
-      "visual_keywords": [
-        "planets solar system",
-        "galaxy space",
-        "night sky stars",
-        "universe cosmos",
-        "space nebula"
-      ]
-    },
-    {
-      "topic": "Mars and Jupiter Conjunct in Leo — Still at 27°",
-      "teaser": "Mars and Jupiter are sitting at nearly the same degree in Leo — and the window to use this energy is almost closed.",
-      "video_title": "Mars and Jupiter in Leo — 27° Last Activation Window",
-      "video_description": "Mars at 27° Leo and Jupiter at 26° Leo are still conjunct — amplifying ambition, ego, and bold action. This alignment doesn't last much longer.",
-      "tags": [
-        "marsinjupiter",
-        "marsinleo",
-        "jupiterinleo",
-        "marsconjunctjupiter",
-        "leoseson",
-        "leoenergy",
+        "saturninneptune",
+        "ariesenergy",
+        "retrograde2026",
         "planetaryalignment",
         "shorts",
+        "viral",
         "astrology",
         "zodiac"
       ],
-      "script": "Mars is at 27 degrees Leo. Jupiter is at 26 degrees Leo. In astrology, when these two planets conjunct, ambition doesn't just rise — it roars. Mars is the drive, Jupiter is the amplifier, and Leo is the stage. This is one of the most action-forward alignments of the year, and it's still active right now. If you've been waiting for the right moment to launch, perform, or lead — astrologers would tell you the window is open. But it won't be for long. Are you a Leo, Aries, or Sagittarius? This one's especially for you.",
+      "script": "Saturn and Neptune are both retrograde in Aries right now — and that combination is not casual. Saturn at eight degrees, Neptune at one degree, both moving backward through the sign of identity and new beginnings. In astrology, Saturn represents structure and reality. Neptune rules illusion and dreams. When they both reverse in the same sign, traditional interpretation says the line between what's real and what you're telling yourself gets dangerously thin. Which version of your life are you actually living?",
       "visual_keywords": [
-        "lion sunset",
-        "fire flames night",
-        "golden light sunburst",
-        "stage spotlight performance",
-        "sunrise horizon"
+        "planets space",
+        "galaxy space",
+        "fog mist landscape",
+        "ancient ruins stone",
+        "night sky stars"
       ]
     },
     {
-      "topic": "The Astrological 9th House — Belief, Travel, Philosophy",
-      "teaser": "There's one house in your birth chart that rules everything you believe — and most people have never looked at it.",
-      "video_title": "The 9th House — Your Beliefs, Your Worldview, Explained",
-      "video_description": "The 9th house rules higher education, long-distance travel, philosophy, and belief systems. Whatever sign sits here shapes how you understand the world.",
+      "topic": "Mars at 28° Leo — Critical Degree Energy",
+      "teaser": "Mars is sitting at one of the most volatile degrees in the zodiac right now — and most people have no idea what that means.",
+      "video_title": "Mars at 28° Leo — Critical Degree Explained",
+      "video_description": "Mars is at 28° Leo, what astrologers call a critical degree. This placement is interpreted as heightened, urgent energy in Leo themes: ego, performance, recognition, and bold action.",
       "tags": [
-        "9thhouse",
-        "ninthhouse",
-        "birthchart",
-        "astrologicalhouses",
-        "sagittariushouse",
-        "jupiterruled",
-        "birthchartreading",
+        "marsinleo",
+        "criticaldegree",
+        "marsastrology",
+        "leoenergy",
+        "marsplacement",
+        "astrologydegrees",
         "shorts",
-        "astrology",
-        "viral"
-      ],
-      "script": "There's a house in your birth chart that determines what you believe, what you're willing to die for, and how far you'll go — literally and philosophically. It's the 9th house. Ruled by Jupiter and associated with Sagittarius, this is where your worldview lives. It governs long-distance travel, higher education, religion, and the moment your mind cracked open for the first time. Whatever sign sits in your 9th house shapes the lens you use to interpret everything. What's yours?",
-      "visual_keywords": [
-        "ancient library books",
-        "world map travel",
-        "temple ruins ancient",
-        "open road mountains",
-        "telescope stars"
-      ]
-    },
-    {
-      "topic": "Venus in Libra — Late Degree Tension Before Scorpio Entry",
-      "teaser": "Venus is at 23° Libra — and when it crosses into Scorpio, the way you experience love shifts completely.",
-      "video_title": "Venus at 23° Libra — Love Is About to Change",
-      "video_description": "Venus in Libra values harmony, beauty, and balance. But it's approaching Scorpio — where love gets obsessive, deep, and transformative. The shift is close.",
-      "tags": [
-        "venusinlibra",
-        "venusinscorpio",
-        "venustransit",
-        "libraseason",
-        "scorpioseason",
-        "venusastrology",
-        "loveastrology",
-        "shorts",
+        "viral",
         "astrology",
         "zodiac"
       ],
-      "script": "Venus is at 23 degrees Libra right now — still craving harmony, beauty, fairness in love. But it's edging toward Scorpio, and in astrology, that crossing changes everything. Libra Venus wants peace. Scorpio Venus wants possession, depth, truth at any cost. When this shift happens, surface-level connections feel unbearable. You'll want real or nothing. If your relationships have felt almost-but-not-quite lately, pay attention to what Venus does next. The comfortable version of love is about to get a lot more intense.",
+      "script": "Mars is at twenty-eight degrees Leo right now — and in astrology, that degree isn't ordinary. Critical degrees carry intensified, almost pressurized energy. Leo rules ego, recognition, and the need to be seen. Mars is drive, aggression, and action. At twenty-eight degrees, traditional astrology says this energy is at a peak before it transforms completely. If you've been holding back a bold move or suppressing your ambition, the sky is saying something loud right now.",
       "visual_keywords": [
-        "rose petals romantic",
-        "couple silhouette sunset",
-        "candlelight intimate",
-        "moonlight night romantic",
-        "tarot cards"
+        "lion wildlife",
+        "fire flames",
+        "dramatic sunset clouds",
+        "spotlight stage",
+        "night sky stars"
+      ]
+    },
+    {
+      "topic": "Uranus in Gemini — What This Transit Actually Rewires",
+      "teaser": "Uranus just moved into Gemini for the first time in over 80 years — and it's doing something most astrology content completely skips over.",
+      "video_title": "Uranus in Gemini — What It's Actually Rewiring",
+      "video_description": "Uranus in Gemini is a rare, decades-long transit. In astrology, Gemini rules communication, information, and the mind. Uranus rules disruption and sudden change — the combination is interpreted as a revolution in how humanity thinks and speaks.",
+      "tags": [
+        "uranusingemi",
+        "uranusgemini",
+        "geminienergy",
+        "uranustransit",
+        "uranus2026",
+        "astrologyplacements",
+        "shorts",
+        "viral",
+        "astrology",
+        "zodiac"
+      ],
+      "script": "Uranus hasn't been in Gemini in over eighty years — and right now it's there, retrograde, at three degrees. In astrology, Gemini rules information, language, and the nervous system. Uranus rules disruption, revolution, and the unexpected. Traditional interpretation says this combination rewires how entire generations communicate and process reality. It's not just personal. It's collective. The last time this happened, broadcasting changed the world. So what gets rewired this time?",
+      "visual_keywords": [
+        "technology network data",
+        "lightning storm sky",
+        "brain neurons science",
+        "satellite antenna",
+        "night sky stars"
       ]
     }
-  ],
-  "candidate": {
-    "topic": "First Quarter Moon in Pisces — Scorpio Season Tension",
-    "teaser": "The Moon is in Pisces right now — and it's creating a hidden battle most people don't see coming.",
-    "video_title": "First Quarter Moon in Pisces — The Hidden Tension",
-    "video_description": "First Quarter Moon in Pisces — Scorpio Season Tension\n\n#firstquartermoon #mooninpisces #piscesmoon #scorpioseason #lunarphases",
-    "tags": [
-      "firstquartermoon",
-      "mooninpisces",
-      "piscesmoon",
-      "scorpioseason",
-      "lunarphases",
-      "moonastrology",
-      "wattersigns",
-      "shorts",
-      "astrology",
-      "zodiac"
-    ],
-    "script": "The Moon is in Pisces right now — and it's fighting the Scorpio Sun in a way most people completely ignore. First Quarter Moons are about tension, action, resistance. But in Pisces, that tension doesn't scream — it dissolves. You feel pulled between what you know and what you sense. Scorpio wants the truth. Pisces wants the dream. If you've felt emotionally exhausted but can't explain why, this square is probably why. Which one are you listening to?",
-    "visual_keywords": [
-      "full moon night sky",
-      "ocean waves night",
-      "dreamy fog water",
-      "moon reflection water",
-      "night clouds"
-    ]
-  },
-  "hashtag_options": [
-    "firstquartermoon",
-    "mooninpisces",
-    "piscesmoon",
-    "scorpioseason",
-    "lunarphases",
-    "moonastrology",
-    "wattersigns",
-    "shorts",
-    "astrology",
-    "zodiac"
-  ],
-  "hashtag_message_id": 183,
-  "selected_hashtags": [
-    0,
-    1,
-    2,
-    3,
-    4
-  ],
-  "hashtag_started_at": "2026-11-19T16:38:15.915410+00:00",
-  "video_file_id": "BAACAgQAAxkDAAO5awABsPAHgyC0e89h4iXZQjYvWiSdAAKMHwACkqAJUOKqZEHF_wYEPQQ",
-  "review_started_at": "2026-11-20T20:43:28.846921+00:00",
-  "attempts": 1
+  ]
 }
