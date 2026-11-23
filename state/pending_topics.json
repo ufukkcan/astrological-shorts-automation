@@ -3,7 +3,7 @@
   "trigger_date": "2026-11-22",
   "message_id": 188,
   "created_at": "2026-11-22T16:43:09.973187+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Sun enters Sagittarius — Season Shift",
@@ -135,5 +135,46 @@
         "night sky stars"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Sun enters Sagittarius — Season Shift",
+    "teaser": "The Sun just changed signs — and for some placements, it's the first real exhale in weeks.",
+    "video_title": "Sun Just Entered Sagittarius — Feel the Shift",
+    "video_description": "The Sun moved into Sagittarius at 0.4°, closing out intense Scorpio season energy. Here's what this sign change actually means for the sky right now.",
+    "tags": [
+      "sagittariusseason",
+      "suninsagittarius",
+      "sagittarius",
+      "seasonshift",
+      "sagittariusenergy",
+      "zodiacseason",
+      "shorts",
+      "viral",
+      "astrology",
+      "zodiac"
+    ],
+    "script": "Scorpio season is over — and the sky just exhaled. The Sun is now at zero degrees Sagittarius, the very first breath of fire season, and after weeks of Scorpio's psychological depth, this shift is not subtle. Sagittarius wants expansion, truth, and forward motion. But here's the tension — Saturn, Uranus, and Neptune are all still retrograde. So the urge to move fast crashes directly into unfinished structure. Which sign are you?",
+    "visual_keywords": [
+      "archer bow arrow",
+      "fire sky sunset",
+      "night sky stars",
+      "galaxy space",
+      "open road horizon"
+    ]
+  },
+  "hashtag_options": [
+    "sagittariusseason",
+    "suninsagittarius",
+    "sagittarius",
+    "seasonshift",
+    "sagittariusenergy",
+    "zodiacseason",
+    "shorts",
+    "viral",
+    "astrology",
+    "zodiac"
+  ],
+  "hashtag_message_id": 189,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-11-23T22:41:02.028426+00:00"
 }
