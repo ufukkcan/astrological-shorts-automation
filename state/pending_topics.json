@@ -3,7 +3,7 @@
   "trigger_date": "2026-11-26",
   "message_id": 194,
   "created_at": "2026-11-26T20:34:42.030505+00:00",
-  "status": "pending",
+  "status": "selecting_hashtags",
   "candidates": [
     {
       "topic": "Waning Gibbous Moon in Cancer — Emotional Reckoning",
@@ -130,5 +130,45 @@
         "constellation map"
       ]
     }
-  ]
+  ],
+  "candidate": {
+    "topic": "Waning Gibbous Moon in Cancer — Emotional Reckoning",
+    "teaser": "The Moon is in Cancer right now — and it's pulling something up from deep inside you that you've been trying to ignore.",
+    "video_title": "Moon in Cancer Is Exposing What You've Been Hiding",
+    "video_description": "The Waning Gibbous Moon in Cancer on November 26 activates deep emotional processing. Astrologers associate this placement with surfacing buried feelings around home, family, and security. Three planets are still retrograde, amplifying the introspective pull.",
+    "tags": [
+      "moonincancer",
+      "waninggibbous",
+      "cancermoon",
+      "moonphases",
+      "saturnretrograde",
+      "neptuneretrograde",
+      "uranusretrograde",
+      "astrology",
+      "shorts",
+      "zodiac"
+    ],
+    "script": "The Moon in Cancer right now isn't gentle — it's excavating. We're in a Waning Gibbous phase, which in astrology is called the release window, the period where what you've been holding finally surfaces whether you're ready or not. Cancer rules home, family, and emotional memory. With Saturn, Uranus, and Neptune all still retrograde, there's nowhere to hide from what needs to be felt. The question isn't what's coming — it's what have you been carrying?",
+    "visual_keywords": [
+      "full moon reflection water",
+      "night sky stars",
+      "ocean waves night",
+      "woman silhouette moonlight"
+    ]
+  },
+  "hashtag_options": [
+    "moonincancer",
+    "waninggibbous",
+    "cancermoon",
+    "moonphases",
+    "saturnretrograde",
+    "neptuneretrograde",
+    "uranusretrograde",
+    "astrology",
+    "shorts",
+    "zodiac"
+  ],
+  "hashtag_message_id": 195,
+  "selected_hashtags": [],
+  "hashtag_started_at": "2026-11-27T21:26:58.165228+00:00"
 }
