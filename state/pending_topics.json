@@ -1,9 +1,9 @@
 {
   "batch_id": "20261126-2034",
   "trigger_date": "2026-11-26",
-  "message_id": 194,
+  "message_id": 197,
   "created_at": "2026-11-26T20:34:42.030505+00:00",
-  "status": "selecting_hashtags",
+  "status": "reviewing",
   "candidates": [
     {
       "topic": "Waning Gibbous Moon in Cancer — Emotional Reckoning",
@@ -135,7 +135,7 @@
     "topic": "Waning Gibbous Moon in Cancer — Emotional Reckoning",
     "teaser": "The Moon is in Cancer right now — and it's pulling something up from deep inside you that you've been trying to ignore.",
     "video_title": "Moon in Cancer Is Exposing What You've Been Hiding",
-    "video_description": "The Waning Gibbous Moon in Cancer on November 26 activates deep emotional processing. Astrologers associate this placement with surfacing buried feelings around home, family, and security. Three planets are still retrograde, amplifying the introspective pull.",
+    "video_description": "Waning Gibbous Moon in Cancer — Emotional Reckoning\n\n#moonincancer #waninggibbous #cancermoon #moonphases #saturnretrograde",
     "tags": [
       "moonincancer",
       "waninggibbous",
@@ -169,6 +169,15 @@
     "zodiac"
   ],
   "hashtag_message_id": 195,
-  "selected_hashtags": [],
-  "hashtag_started_at": "2026-11-27T21:26:58.165228+00:00"
+  "selected_hashtags": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "hashtag_started_at": "2026-11-27T21:26:58.165228+00:00",
+  "video_file_id": "BAACAgQAAxkDAAPFawsyJ_QK3yumXWQCfQF9lveGJHQAAjAgAAJt3VhQpAJryWH1hIs9BA",
+  "review_started_at": "2026-11-28T19:57:27.913577+00:00",
+  "attempts": 1
 }
